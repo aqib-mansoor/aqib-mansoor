@@ -71,9 +71,7 @@ From crafting elegant frontends to building scalable backends — I aim for perf
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="150"/>
-</p>
+
 
 
 
