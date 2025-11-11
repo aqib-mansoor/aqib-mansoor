@@ -31,9 +31,7 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 ---
 
 ## 🌟 Featured Project  
-🎯 **My Portfolio** — Explore my latest web designs and projects:  
-🔗 [aqibfolio.vercel.app](https://aqibfolio.vercel.app)
-
+🎯 **My Portfolio** — Explore my latest web designs and projects:
 <p align="center">
   <a href="https://aqibfolio.vercel.app">
     <img src="https://img.shields.io/badge/Visit_Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
