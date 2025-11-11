@@ -51,10 +51,12 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 ## 📬 Connect With Me  
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-aqib--mansoor-black?style=for-the-badge&logo=github)](https://github.com/aqib-mansoor)  
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aqibfolio.vercel.app-blue?style=for-the-badge)](https://aqibfolio.vercel.app)   
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-aqib--mansoor-black?style=for-the-badge&logo=github)](https://github.com/aqib-mansoor)
+[![Email](https://img.shields.io/badge/✉️_Email-aqibmansoor70@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqibmansoor70@gmail.com)
 
 </div>
+
 
 ---
 
