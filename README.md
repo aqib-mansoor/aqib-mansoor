@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Aqib Mansoor</span></h1>
 
 <p align="center">
-  💻 <strong>Web Developer at Ensycd Technologies Pvt. Ltd.</strong><br/>
+  💻 <strong>Web Developer</strong><br/>
   🚀 Turning ideas into beautiful, responsive, and functional web experiences.<br/>
   ✨ Always learning. Always creating.
 </p>
