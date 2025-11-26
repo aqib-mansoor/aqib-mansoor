@@ -126,22 +126,18 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Activity & Stats
 
 <p align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <h4>📈 GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&theme=tokyonight" width="320" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <h4>💻 Top Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" width="320" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<!-- Followers -->
+<img src="https://img.shields.io/github/followers/aqib-mansoor?label=Followers&style=social" alt="Followers"/> &nbsp;
+<!-- Repositories -->
+<img src="https://img.shields.io/github/repos/aqib-mansoor?label=Public%20Repos&style=flat-square" alt="Repositories"/> &nbsp;
+<!-- Top Languages -->
+<img src="https://img.shields.io/github/languages/top/aqib-mansoor?label=Top%20Language&style=flat-square" alt="Top Language"/> &nbsp;
+<!-- Last Commit -->
+<img src="https://img.shields.io/github/last-commit/aqib-mansoor/your-repo-name?style=flat-square" alt="Last Commit"/>
 
 </p>
 
