@@ -81,20 +81,20 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 ## 📬 Connect With Me
 <div align="center">
 
-<a href="https://github.com/aqib-mansoor" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
-<a href="https://aqibfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>&nbsp;
-<a href="mailto:aqibmansoor70@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://twitter.com/aqibmansoor" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://github.com/aqib-mansoor" target="_blank" rel="noopener">
+  <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" alt="GitHub"/>
+</a>&nbsp;&nbsp;
+<a href="https://aqibfolio.vercel.app" target="_blank" rel="noopener">
+  <img src="https://img.icons8.com/ios-filled/60/3b82f6/domain.png" alt="Portfolio"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:aqibmansoor70@gmail.com" target="_blank" rel="noopener">
+  <img src="https://img.icons8.com/ios-glyphs/60/D14836/new-post.png" alt="Email"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank" rel="noopener">
+  <img src="https://img.icons8.com/ios-filled/60/0A66C2/linkedin.png" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/aqibmansoor" target="_blank" rel="noopener">
+  <img src="https://img.icons8.com/ios-glyphs/60/1DA1F2/twitter.png" alt="Twitter"/>
 </a>
 
 </div>
