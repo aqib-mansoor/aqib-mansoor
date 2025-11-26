@@ -135,11 +135,23 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 ---
 
-## 📊 GitHub Stats & Activity  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>  
-</p>
+## 📊 GitHub Stats & Activity
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- GitHub Stats -->
+  <div>
+    <h4 align="center">📈 GitHub Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&theme=tokyonight" width="320" alt="GitHub Stats"/>
+  </div>
+
+  <!-- Top Languages -->
+  <div>
+    <h4 align="center">💻 Top Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" width="320" alt="Top Languages"/>
+  </div>
+
+</div>
 
 ---
 
