@@ -92,4 +92,4 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 </p>  
 ---
 
-<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p>  Check it if need make it better
+<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p> 
