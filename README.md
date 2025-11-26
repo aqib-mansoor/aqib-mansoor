@@ -85,31 +85,31 @@ From crafting elegant frontends to building scalable backends — I aim for perf
   <tr>
     <td align="center">
       <a href="https://github.com/aqib-mansoor" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" alt="GitHub" class="icon-hover"/>
+        <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" alt="GitHub" class="icon-hover"/>
       </a>
       <br/>GitHub
     </td>
     <td align="center">
       <a href="https://aqibfolio.vercel.app" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-filled/60/3b82f6/domain.png" alt="Portfolio" class="icon-hover"/>
+        <img src="https://img.icons8.com/ios-filled/40/3b82f6/domain.png" alt="Portfolio" class="icon-hover"/>
       </a>
       <br/>Portfolio
     </td>
     <td align="center">
       <a href="mailto:aqibmansoor70@gmail.com" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-glyphs/60/D14836/new-post.png" alt="Email" class="icon-hover"/>
+        <img src="https://img.icons8.com/ios-glyphs/40/D14836/new-post.png" alt="Email" class="icon-hover"/>
       </a>
       <br/>Email
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-filled/60/0A66C2/linkedin.png" alt="LinkedIn" class="icon-hover"/>
+        <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" class="icon-hover"/>
       </a>
       <br/>LinkedIn
     </td>
     <td align="center">
       <a href="https://twitter.com/aqibmansoor" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-glyphs/60/1DA1F2/twitter.png" alt="Twitter" class="icon-hover"/>
+        <img src="https://img.icons8.com/ios-glyphs/40/1DA1F2/twitter.png" alt="Twitter" class="icon-hover"/>
       </a>
       <br/>Twitter
     </td>
