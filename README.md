@@ -134,11 +134,11 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 ---
 
-## 🔥 Contribution Graph    
-<p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night" alt="GitHub Activity Graph" />  
-</p>
 
+## 🔥 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="800" style="border-radius: 10px; border: 1px solid #2e2e2e;"/>
+</p>
 ---
 
 <p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p>
