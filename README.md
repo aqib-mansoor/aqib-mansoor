@@ -21,41 +21,43 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 ## 🧠 Tech Stack & Skills    
 
 <p align="center">
+
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8" />&nbsp;
-<img src="https://img.shields.io/badge/UI/UX-FF4088?logo=figma&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/UI/UX-FF4088?logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/REST_API-02569B?logo=api&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-02569B?logo=api&logoColor=white" />
 <img src="https://img.shields.io/badge/API_Integration-FF6F00?logo=postman&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 <!-- Database -->
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 <!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Responsive_Design-1572B6?logo=css3&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />  
-</p>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive_Design-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
+</p>
 ---
 
 ## 🌟 Featured Project    
