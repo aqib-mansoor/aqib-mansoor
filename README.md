@@ -81,23 +81,52 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 ## 📬 Connect With Me
 <div align="center">
 
-<a href="https://github.com/aqib-mansoor" target="_blank" rel="noopener">
-  <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-<a href="https://aqibfolio.vercel.app" target="_blank" rel="noopener">
-  <img src="https://img.icons8.com/ios-filled/60/3b82f6/domain.png" alt="Portfolio"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:aqibmansoor70@gmail.com" target="_blank" rel="noopener">
-  <img src="https://img.icons8.com/ios-glyphs/60/D14836/new-post.png" alt="Email"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank" rel="noopener">
-  <img src="https://img.icons8.com/ios-filled/60/0A66C2/linkedin.png" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/aqibmansoor" target="_blank" rel="noopener">
-  <img src="https://img.icons8.com/ios-glyphs/60/1DA1F2/twitter.png" alt="Twitter"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aqib-mansoor" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" alt="GitHub" class="icon-hover"/>
+      </a>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <a href="https://aqibfolio.vercel.app" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-filled/60/3b82f6/domain.png" alt="Portfolio" class="icon-hover"/>
+      </a>
+      <br/>Portfolio
+    </td>
+    <td align="center">
+      <a href="mailto:aqibmansoor70@gmail.com" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-glyphs/60/D14836/new-post.png" alt="Email" class="icon-hover"/>
+      </a>
+      <br/>Email
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-filled/60/0A66C2/linkedin.png" alt="LinkedIn" class="icon-hover"/>
+      </a>
+      <br/>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/aqibmansoor" target="_blank" rel="noopener">
+        <img src="https://img.icons8.com/ios-glyphs/60/1DA1F2/twitter.png" alt="Twitter" class="icon-hover"/>
+      </a>
+      <br/>Twitter
+    </td>
+  </tr>
+</table>
 
 </div>
+
+<style>
+.icon-hover {
+  transition: transform 0.2s;
+}
+
+.icon-hover:hover {
+  transform: scale(1.2);
+}
+</style>
 
 ---
 
