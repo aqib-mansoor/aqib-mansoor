@@ -55,7 +55,6 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Responsive_Design-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
 </p>
