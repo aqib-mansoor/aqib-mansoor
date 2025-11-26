@@ -21,13 +21,23 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 ## 🧠 Tech Stack & Skills  
 <div align="center">
 
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🧰 Tools |
-|--------------|-------------|--------------|----------|
-| React.js / Next.js | PHP / Laravel | SQL Server / MySQL | Git, GitHub, Vercel |
-| Tailwind CSS / UI Design | RESTful APIs | Query Optimization | Deployment / CI-CD |
+## 🎨 Frontend
+| React.js | Next.js | Tailwind CSS | UI/UX Design |
+|----------|----------|--------------|--------------|
+
+## ⚙️ Backend
+| PHP | Laravel | RESTful APIs |
+|-----|---------|--------------|
+
+## 🗄️ Database
+| SQL Server | MySQL | MongoDb |
+|-------------|---------|-------------------|
+
+## 🧰 Tools
+| Git | GitHub | Vercel | Deployment / CI-CD |
+|------|--------|---------|--------------------|
 
 </div>
-
 ---
 
 ## 🌟 Featured Project  
