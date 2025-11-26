@@ -58,7 +58,6 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
 </p>
----
 
 ## 🌟 Featured Project    
 🎯 **My Portfolio** — Explore my latest web designs and projects:  
