@@ -126,18 +126,15 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
 
-<!-- Followers -->
-<img src="https://img.shields.io/github/followers/aqib-mansoor?label=Followers&style=social" alt="Followers"/> &nbsp;
-<!-- Repositories -->
-<img src="https://img.shields.io/github/repos/aqib-mansoor?label=Public%20Repos&style=flat-square" alt="Repositories"/> &nbsp;
-<!-- Top Languages -->
-<img src="https://img.shields.io/github/languages/top/aqib-mansoor?label=Top%20Language&style=flat-square" alt="Top Language"/> &nbsp;
-<!-- Last Commit -->
-<img src="https://img.shields.io/github/last-commit/aqib-mansoor/your-repo-name?style=flat-square" alt="Last Commit"/>
+### 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" width="300"/>
+
+### 🌟 Featured Projects
+<img src="https://img.shields.io/badge/Projects-10-brightgreen" alt="Projects Count" width="200"/>
 
 </p>
 
