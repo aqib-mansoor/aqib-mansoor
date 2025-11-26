@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Aqib Mansoor</span></h1>  <p align="center">  
   💻 <strong>Web Developer</strong><br/>  
   🚀 Turning ideas into beautiful, responsive, and functional web experiences.<br/>  
@@ -33,9 +34,7 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />  
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />  
 <img src="https://img.shields.io/badge/Responsive_Design-1572B6?logo=css3&logoColor=white" />  
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />  </p> 
-
- 🌟 Featured Project
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />  </p>  🌟 Featured Project
 
 🎯 My Portfolio — Explore my latest web designs and projects:
 
@@ -93,4 +92,4 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 </p>  
 ---
 
-<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p> 
+<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p>  Check it if need make it better
