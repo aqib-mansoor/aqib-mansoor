@@ -1,114 +1,94 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Aqib Mansoor</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Aqib Mansoor</span></h1>  <p align="center">  
+  💻 <strong>Web Developer</strong><br/>  
+  🚀 Turning ideas into beautiful, responsive, and functional web experiences.<br/>  
+  ✨ Always learning. Always creating.  
+</p>  <p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=aqib-mansoor&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>  
+</p>  
+---
 
-<p align="center">
-  💻 <strong>Web Developer</strong><br/>
-  🚀 Building fast, modern, and scalable digital experiences.<br/>
-  ✨ Passionate about clean UI, smooth UX, and high-performance code.
-</p>
+🚀 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqib-mansoor&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+I'm a passionate Web Developer who loves blending creativity with code to build impactful digital experiences.
+From crafting elegant frontends to building scalable backends — I aim for performance, usability, and style in every project.
+
 
 ---
 
-## 🚀 About Me  
-I’m a dedicated **Web Developer** focused on creating seamless, modern, and functional web applications.  
-I love bringing ideas to life — from intuitive frontends to strong backend logic — and constantly improving my craft.
+🧠 Tech Stack & Skills
+
+<p align="center">  <!-- Frontend -->  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />  
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />  
+<img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8" />  
+<img src="https://img.shields.io/badge/UI/UX-FF4088?logo=figma&logoColor=white" />  
+<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />  
+<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />  <br/>  <!-- Backend -->  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />  
+<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />  
+<img src="https://img.shields.io/badge/REST_API-02569B?logo=api&logoColor=white" />  
+<img src="https://img.shields.io/badge/API_Integration-FF6F00?logo=postman&logoColor=white" />  <br/>  <!-- Database -->  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />  
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />  <br/>  <!-- Tools -->  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />  
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />  
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />  
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />  
+<img src="https://img.shields.io/badge/Responsive_Design-1572B6?logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />  </p>  🌟 Featured Project
+
+🎯 My Portfolio — Explore my latest web designs and projects:
+
+<p align="center">  
+  <a href="https://aqibfolio.vercel.app">  
+    <img src="https://img.shields.io/badge/Visit_Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>  
+  </a>  
+</p>  
+---
+
+💡 What I Love Doing
+
+🖌️ Designing clean, modern, and user-friendly interfaces
+
+⚙️ Writing maintainable & efficient backend code
+
+🚀 Experimenting with new tools and frameworks
+
+🎧 Music & Cricket keep my creativity alive!
+
+
 
 ---
 
-## 🧠 Tech Stack & Skills  
+📬 Connect With Me
 
-<p align="center">
+<div align="center">  
 
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/UI/UX-FF4088?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
 
-<br/><br/>
 
-<!-- Backend -->
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-02569B?logo=api&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Integration-FF6F00?logo=postman&logoColor=white" />
+</div>  
+---
 
-<br/><br/>
+✨ Quote I Live By
 
-<!-- Database -->
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+> “Exploring creativity through code — building experiences that inspire.”
 
-<br/><br/>
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive_Design-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
-</p>
 
 ---
 
-## 🌟 Featured Project  
-🎯 **My Portfolio** — Explore my latest designs & development work:
+📊 GitHub Stats & Activity
 
-<p align="center">
-  <a href="https://aqibfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</p>
-
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>  
+</p>  
 ---
 
-## 💡 What I Love Doing  
-- 🎨 Designing clean & modern interfaces  
-- ⚙️ Developing scalable backend systems  
-- 🔗 API integration & full-stack apps  
-- 🚀 Working on delivery systems, POS & real-world apps  
-- 🎧 Music & Cricket keep the creativity flowing  
+🔥 Contribution Graph
 
+<p align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night" alt="GitHub Activity Graph" />  
+</p>  
 ---
 
-## 📬 Connect With Me  
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-aqib--mansoor-black?style=for-the-badge&logo=github)](https://github.com/aqib-mansoor)  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aqibfolio.vercel.app-blue?style=for-the-badge)](https://aqibfolio.vercel.app)  
-[![Email](https://img.shields.io/badge/✉️_Email-aqibmansoor70@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqibmansoor70@gmail.com)
-
-</div>
-
----
-
-## ✨ Quote I Live By  
-> “Exploring creativity through code — building experiences that inspire.”  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🔥 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night" />
-</p>
-
----
-
-<p align="center">⭐ Thanks for stopping by — let's build something amazing together! 🚀</p>
+<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p> 
