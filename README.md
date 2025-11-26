@@ -126,19 +126,33 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 ---
 
-## 📊 GitHub Stats & Activity
-
+## 📊 GitHub Activity & Achievements
 <p align="center">
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" width="300"/>
-
-<br/><br/>
-
-<!-- Custom Badges -->
-<img src="https://img.shields.io/badge/Projects-15-brightgreen" alt="Projects Count" style="margin:5px"/>
-<img src="https://img.shields.io/badge/Contributions-200-blue" alt="Contributions" style="margin:5px"/>
-<img src="https://img.shields.io/badge/Certifications-5-yellow" alt="Certifications" style="margin:5px"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-glyphs/40/4CAF50/project.png" alt="Projects"/><br/>
+      <b>Projects</b><br/>
+      15
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-glyphs/40/2196F3/conference-call.png" alt="Contributions"/><br/>
+      <b>Contributions</b><br/>
+      200
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-glyphs/40/FFC107/certificate.png" alt="Certifications"/><br/>
+      <b>Certifications</b><br/>
+      5
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Top_Languages-See_Below-9cf" alt="Top Languages"/><br/>
+      <b>Top Languages</b><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
 </p>
 
