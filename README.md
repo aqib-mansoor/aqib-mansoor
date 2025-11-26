@@ -19,26 +19,44 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 ---
 
 ## 🧠 Tech Stack & Skills  
+<h2 align="center">🚀 Tech Stack</h2>
+
 <div align="center">
 
-## 🎨 Frontend
-| React.js | Next.js | Tailwind CSS | UI/UX Design |
-|----------|----------|--------------|--------------|
-
-## ⚙️ Backend
-| PHP | Laravel | RESTful APIs |
-|-----|---------|--------------|
-
-## 🗄️ Database
-| SQL Server | MySQL | MongoDb |
-|-------------|---------|-------------------|
-
-## 🧰 Tools
-| Git | GitHub | Vercel | Deployment / CI-CD |
-|------|--------|---------|--------------------|
+<table>
+  <tr>
+    <th>🎨 Frontend</th>
+    <th>⚙️ Backend</th>
+    <th>🗄️ Database</th>
+    <th>🧰 Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      React.js <br/>
+      Next.js <br/>
+      Tailwind CSS <br/>
+      UI/UX Design
+    </td>
+    <td align="center">
+      PHP <br/>
+      Laravel <br/>
+      RESTful APIs
+    </td>
+    <td align="center">
+      SQL Server <br/>
+      MySQL <br/>
+      Query Optimization
+    </td>
+    <td align="center">
+      Git <br/>
+      GitHub <br/>
+      Vercel <br/>
+      CI/CD & Deployment
+    </td>
+  </tr>
+</table>
 
 </div>
----
 
 ## 🌟 Featured Project  
 🎯 **My Portfolio** — Explore my latest web designs and projects:
