@@ -130,11 +130,15 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 <p align="center">
 
-### 💻 Top Languages
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" width="300"/>
 
-### 🌟 Featured Projects
-<img src="https://img.shields.io/badge/Projects-10-brightgreen" alt="Projects Count" width="200"/>
+<br/><br/>
+
+<!-- Custom Badges -->
+<img src="https://img.shields.io/badge/Projects-15-brightgreen" alt="Projects Count" style="margin:5px"/>
+<img src="https://img.shields.io/badge/Contributions-200-blue" alt="Contributions" style="margin:5px"/>
+<img src="https://img.shields.io/badge/Certifications-5-yellow" alt="Certifications" style="margin:5px"/>
 
 </p>
 
