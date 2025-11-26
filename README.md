@@ -23,38 +23,25 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>🎨 Frontend</th>
-    <th>⚙️ Backend</th>
-    <th>🗄️ Database</th>
-    <th>🧰 Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      React.js <br/>
-      Next.js <br/>
-      Tailwind CSS <br/>
-      UI/UX Design
-    </td>
-    <td align="center">
-      PHP <br/>
-      Laravel <br/>
-      RESTful APIs
-    </td>
-    <td align="center">
-      SQL Server <br/>
-      MySQL <br/>
-      Query Optimization
-    </td>
-    <td align="center">
-      Git <br/>
-      GitHub <br/>
-      Vercel <br/>
-      CI/CD & Deployment
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend
+<div>
+  ▪️ React.js &nbsp;&nbsp; ▪️ Next.js &nbsp;&nbsp; ▪️ Tailwind CSS &nbsp;&nbsp; ▪️ UI/UX Design  
+</div>
+
+### ⚙️ Backend
+<div>
+  ▪️ PHP &nbsp;&nbsp; ▪️ Laravel &nbsp;&nbsp; ▪️ RESTful APIs
+</div>
+
+### 🗄️ Database
+<div>
+  ▪️ SQL Server &nbsp;&nbsp; ▪️ MySQL &nbsp;&nbsp; ▪️ Query Optimization
+</div>
+
+### 🧰 Tools
+<div>
+  ▪️ Git &nbsp;&nbsp; ▪️ GitHub &nbsp;&nbsp; ▪️ Vercel &nbsp;&nbsp; ▪️ CI/CD
+</div>
 
 </div>
 
