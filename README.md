@@ -10,13 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=aqib-mansoor&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>  
 </p>  
 
----
+
 
 ## 🚀 About Me    
 I'm a passionate **Web Developer** who loves blending creativity with code to build impactful digital experiences.  
 From crafting elegant frontends to building scalable backends — I aim for performance, usability, and style in every project.
 
----
+
 
 ## 🧠 Tech Stack & Skills    
 
@@ -68,7 +68,7 @@ From crafting elegant frontends to building scalable backends — I aim for perf
   </a>  
 </p>
 
----
+
 
 ## 💡 What I Love Doing    
 - 🖌️ Designing clean, modern, and user-friendly interfaces    
@@ -76,7 +76,7 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 - 🚀 Experimenting with new tools and frameworks    
 - 🎧 Music & Cricket keep my creativity alive!    
 
----
+
 
 ## 📬 Connect With Me
 <div align="center">
@@ -119,12 +119,12 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 </div>
 
 
----
+
 
 ## ✨ Quote I Live By    
 > “Exploring creativity through code — building experiences that inspire.”    
 
----
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -132,13 +132,13 @@ From crafting elegant frontends to building scalable backends — I aim for perf
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>    
 </p>
 
----
+
 
 
 ## 🔥 GitHub Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="800" style="border-radius: 10px; border: 1px solid #2e2e2e;"/>
 </p>
----
+
 
 <p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p>
