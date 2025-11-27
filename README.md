@@ -121,7 +121,7 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 
 
 ## ✨ Quote I Live By    
-> “Exploring creativity through code — building experiences that inspire.”    
+> “Exploring creativity through code building experiences that inspire.”    
 
 
 
