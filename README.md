@@ -14,7 +14,7 @@
 
 ## 🚀 About Me    
 I'm a passionate **Web Developer** who loves blending creativity with code to build impactful digital experiences.  
-From crafting elegant frontends to building scalable backends — I aim for performance, usability, and style in every project.
+From crafting elegant frontends to building scalable backend, I aim for performance, usability, and style in every project.
 
 
 
@@ -70,7 +70,7 @@ From crafting elegant frontends to building scalable backends — I aim for perf
 
 
 ## 💡 What I Love Doing    
-- 🖌️ Designing clean, modern, and user-friendly interfaces    
+- 🖌️ Designing clean, modern, and user friendly interfaces    
 - ⚙️ Writing maintainable & efficient backend code    
 - 🚀 Experimenting with new tools and frameworks    
 - 🎧 Music & Cricket keep my creativity alive!    
