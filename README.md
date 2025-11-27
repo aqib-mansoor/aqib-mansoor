@@ -139,4 +139,4 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 </p>
 
 
-<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p>
+<p align="center">⭐ Thanks for stopping by let’s build something amazing together! 🚀</p>
