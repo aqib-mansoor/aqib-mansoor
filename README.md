@@ -284,9 +284,6 @@
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&bg_color=0D1117" width="420"/>
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="350"/>
-      </td>
     </tr>
   </table>
   
