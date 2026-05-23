@@ -3,7 +3,7 @@
   <!-- Animated Gradient Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=40&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aqib+Mansoor;%F0%9F%92%BB+Web+%26+Mobile+Developer;%F0%9F%9A%80+Building+Awesome+Stuff;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG"/>
   
-  <br/>
+  
   
   <!-- Social Badges Row -->
   <p>
