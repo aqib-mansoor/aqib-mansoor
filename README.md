@@ -70,17 +70,142 @@
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Projects
 
-<p align="center">
-  <b>📌 My Portfolio</b><br/>
-  <a href="https://aqibfolio.vercel.app">https://aqibfolio.vercel.app</a>
+### 🍔 FoodieExpress - Complete Ecosystem
+
+<details open>
+<summary><b>🌐 FoodieExpress (Main Platform)</b></summary>
+
+<br/>
+
+**Multi-vendor E-commerce Platform** built with React + TypeScript where customers can browse and order from food, grocery, electronics, and more.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
 </p>
 
+</details>
+
+<details>
+<summary><b>👨‍💼 FoodieExpress - Vendor Management Portal</b></summary>
+
+<br/>
+
+**Vendor Dashboard** for sellers to manage products, track orders, handle inventory, and analyze sales analytics.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏍️ FoodieExpress - Rider Portal</b></summary>
+
+<br/>
+
+**Delivery Partner App** for riders to accept deliveries, track routes, manage earnings, and optimize delivery routes.
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NativeWind-0F172A?logo=tailwind-css&logoColor=38BDF8"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>🛒 FoodieExpress - Admin Panel</b></summary>
+
+<br/>
+
+**Central Admin Dashboard** for platform oversight, user management, vendor approval, order monitoring, and analytics.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?logo=recharts&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8"/>
+</p>
+
+</details>
+
+---
+
+### 🐾 PetHorizon
+
+<details>
+<summary><b>Smart Pet Care Management Platform</b></summary>
+
+<br/>
+
+Modern landing page for **Pet Horizon** featuring pet tracking, schedules, medicine reminders, and activity timelines.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white"/>
+</p>
+
+</details>
+
+---
+
+### 🤖 ApplyDaddy
+
+<details>
+<summary><b>AI-Powered Job Response Automation</b></summary>
+
+<br/>
+
+**Stop copy-pasting!** Generate professional emails and WhatsApp messages from any job post in 15 seconds.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?logo=tailwind-css&logoColor=38BDF8"/>
+</p>
+
+</details>
+
+---
+
+### 📊 Nexus-Crypto-Hub
+
+<details>
+<summary><b>Institutional-Grade Crypto Intelligence Terminal</b></summary>
+
+<br/>
+
+Real-time crypto & macro intelligence with live market data, sentiment analysis, and portfolio simulation.
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white"/>
+</p>
+
+</details>
+
+---
+
+## 📊 Project Stats at a Glance
+
 <p align="center">
-  <a href="https://aqibfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🔗_Visit_Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Total_Projects-6-3b82f6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript_Projects-6-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Projects-6-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
