@@ -266,45 +266,25 @@
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  
-  <br/><br/>
-  
-  <!-- Row 3: Activity Graph -->
-  <table width="100%">
+  <!-- Stats Row -->
+  <table>
     <tr>
-      <td align="center" style="background: #0D1117; border-radius: 16px; padding: 20px;">
-        <h3>📈 ACTIVITY TIMELINE</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=github-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=EC4899&area=true&area_color=3B82F6" width="100%"/>
-       </td>
-    </table>
-  </table>
-  
-  <br/><br/>
-  
-  <!-- Row 4: Trophies -->
-  <table width="100%">
-    <tr>
-      <td align="center" style="background: #0D1117; border-radius: 16px; padding: 20px;">
-        <h3>🏆 GITHUB TROPHIES</h3>
-        <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/>
-       </td>
-    </tr>
-  </table>
-  
-  <br/><br/>
-  
-  <!-- Row 5: Contribution Calendar -->
-  <table width="100%">
-    <tr>
-      <td align="center" style="background: #0D1117; border-radius: 16px; padding: 20px;">
-        <h3>📅 CONTRIBUTION CALENDAR</h3>
-        <img src="https://ghchart.rshah.org/3B82F6/aqib-mansoor" width="100%"/>
-        <p><small>💚 Each square = 1 day of coding activity</small></p>
-       </td>
+      <td align="center" width="140">
+        <img src="https://img.shields.io/badge/📊_TOTAL_CONTRIBUTIONS-569-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-1_Day-8B5CF6?style=for-the-badge&logo=fire&logoColor=white"/>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-10_Days-EC4899?style=for-the-badge&logo=trophy&logoColor=white"/>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.shields.io/badge/⭐_TOTAL_STARS-5-FFD700?style=for-the-badge&logo=star&logoColor=white"/>
+      </td>
     </tr>
   </table>
   
@@ -312,50 +292,96 @@
 
 <br/>
 
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/aqib-mansoor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aqib-mansoor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/aqibmansoor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:aqibmansoor70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://aqibfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
-<br/>
-
----
-
-## 💫 Quote I Live By
-
-<table align="center" width="60%">
-  <tr>
-    <td align="center" style="background: #0D1117; border-radius: 20px; padding: 30px; border: 1px solid #8B5CF6;">
-      <h1>✨</h1>
-      <p style="font-size: 18px; font-style: italic; color: #E2E8F0;">
-        "Exploring creativity through code — building experiences that inspire."
-      </p>
-      <p style="color: #8B5CF6;">— Aqib Mansoor</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColors=3B82F6,8B5CF6,EC4899" width="100%"/>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&bg_color=0D1117" width="420"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="350"/>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
+<br/>
+
 <div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ec4899" width="95%"/>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
+  
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://ghchart.rshah.org/3B82F6/aqib-mansoor" width="90%"/>
+  
   <br/>
-  <h3>⭐</h3>
-  <b>Thanks for stopping by!</b>
+  <small>💚 Each square = 1 day of contributions</small>
+  
+</div>
+
+<br/>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  
+  <a href="https://github.com/aqib-mansoor">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aqib-mansoor">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/aqibmansoor">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:aqibmansoor70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://aqibfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  
+</div>
+
+<br/>
+
+---
+
+## 💫 Quote
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&gradientColors=3B82F6,8B5CF6,EC4899" width="100%"/>
+  
   <br/>
-  <i>Let's build something amazing together 🚀</i>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Keep_Coding-Passionately-3B82F6?style=flat-square"/>
+  
+  <b>⭐ Thanks for stopping by! Let's build something amazing together 🚀</b>
+  
 </div>
