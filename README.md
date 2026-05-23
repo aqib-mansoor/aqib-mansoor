@@ -1,3 +1,4 @@
+
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aqib+Mansoor;%F0%9F%92%BB+Web+%26+Mobile+Developer;%F0%9F%9A%80+Building+Digital+Dreams;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG"/>
@@ -48,7 +49,7 @@
         <li>🌙 Night owl developer 🦉</li>
       </ul>
     </td>
-  </tr>
+   </tr>
 </table>
 
 <br/>
@@ -65,59 +66,90 @@
 
 <div align="center">
   
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </p>
+  <table width="100%">
+    <tr>
+      <td align="center" width="25%"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+      <td align="center" width="25%"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></td>
+      <td align="center" width="25%"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+      <td align="center" width="25%"><img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td>
+      <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
+    </tr>
+  </table>
   
 </div>
+
+<br/>
 
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  
-  <h3>🍔 FoodieExpress Ecosystem</h3>
-  <p><b>Multi-vendor E-commerce Platform</b> - React + TypeScript + TailwindCSS + Redux</p>
-  <p>
-    <img src="https://img.shields.io/badge/Vendor_Portal-3b82f6?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Rider_Portal-8b5cf6?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Admin_Panel-ec4899?style=flat-square"/>
-  </p>
-  
-  <br/>
-  
-  <h3>🐾 PetHorizon</h3>
-  <p><b>Smart Pet Care Platform</b> - Next.js + TypeScript + TailwindCSS</p>
-  
-  <br/>
-  
-  <h3>🤖 ApplyDaddy</h3>
-  <p><b>AI-Powered Job Response Automation</b> - React + TypeScript + OpenAI</p>
-  
-  <br/>
-  
-  <h3>📊 Nexus-Crypto-Hub</h3>
-  <p><b>Crypto Intelligence Terminal</b> - React + TypeScript + CoinGecko API + NewsAPI</p>
-  
+
+### 🍔 FoodieExpress Ecosystem
+> *Multi-vendor E-commerce Platform*
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/👨‍💼_Vendor_Portal-3b82f6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🏍️_Rider_Portal-8b5cf6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🛒_Admin_Panel-ec4899?style=flat-square"/>
+</p>
+
+<br/>
+
+### 🐾 PetHorizon
+> *Smart Pet Care Management Platform*
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css"/>
+</p>
+
+<br/>
+
+### 🤖 ApplyDaddy
+> *AI-Powered Job Response Automation*
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
+</p>
+
+<br/>
+
+### 📊 Nexus-Crypto-Hub
+> *Institutional-Grade Crypto Intelligence Terminal*
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/CoinGecko_API-3b82f6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/News_API-ec4899?style=flat-square"/>
+</p>
+
 </div>
+
+<br/>
 
 ---
 
@@ -125,11 +157,23 @@
 
 <div align="center">
   
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center"><b>📊 Total Contributions</b><br/>569<br/><small>Jan 2023 - Present</small></td>
-      <td align="center"><b>🔥 Current Streak</b><br/>1 Day<br/><small>May 23, 2026</small></td>
-      <td align="center"><b>🏆 Longest Streak</b><br/>10 Days<br/><small>Mar 16-25, 2023</small></td>
+      <td align="center" style="padding: 15px; background: #0D1117; border-radius: 12px;">
+        <h3>📊 Total Contributions</h3>
+        <p style="font-size: 32px; margin: 0; color: #3B82F6;">569</p>
+        <small>Jan 2023 - Present</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #0D1117; border-radius: 12px;">
+        <h3>🔥 Current Streak</h3>
+        <p style="font-size: 32px; margin: 0; color: #8B5CF6;">1 Day</p>
+        <small>May 23, 2026</small>
+      </td>
+      <td align="center" style="padding: 15px; background: #0D1117; border-radius: 12px;">
+        <h3>🏆 Longest Streak</h3>
+        <p style="font-size: 32px; margin: 0; color: #EC4899;">10 Days</p>
+        <small>Mar 16-25, 2023</small>
+      </td>
     </tr>
   </table>
   
@@ -143,6 +187,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ec4899" width="90%"/>
   
 </div>
+
+<br/>
 
 ---
 
