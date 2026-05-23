@@ -114,28 +114,44 @@ From crafting elegant frontends to building scalable backends and cross-platform
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="38%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib-mansoor&theme=tokyonight" width="95%" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib-mansoor&theme=tokyonight" width="47%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqib-mansoor&theme=tokyonight" width="47%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqib-mansoor&theme=tokyonight" width="47%" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqib-mansoor&theme=tokyonight&utcOffset=5" width="47%" alt="Productive Time"/>
 </p>
 
 
 
-## 🔥 GitHub Streak & Activity
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqib-mansoor&theme=tokyonight&utcOffset=5" width="39%" alt="Productive Time"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aqib-mansoor&theme=tokyonight&hide_border=true&background=0D1117" width="60%" alt="GitHub Streak"/>
 </p>
 
 
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ffffff" width="95%" style="border-radius: 10px;" alt="GitHub Activity Graph"/>
+</p>
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" alt="GitHub Trophies"/>
 </p>
 
 
