@@ -88,37 +88,24 @@ From crafting elegant frontends to building scalable backends and cross-platform
 
 
 ## 📬 Connect With Me
-<div align="center">
 
-| <td align="center">
-      <a href="https://github.com/aqib-mansoor" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" alt="GitHub" class="icon-hover"/>
-      </a>
-      <br/>GitHub
-     | <td align="center">
-      <a href="https://aqibfolio.vercel.app" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-filled/40/3b82f6/domain.png" alt="Portfolio" class="icon-hover"/>
-      </a>
-      <br/>Portfolio
-     | <td align="center">
-      <a href="mailto:aqibmansoor70@gmail.com" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-glyphs/40/D14836/new-post.png" alt="Email" class="icon-hover"/>
-      </a>
-      <br/>Email
-     | <td align="center">
-      <a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" class="icon-hover"/>
-      </a>
-      <br/>LinkedIn
-     | <td align="center">
-      <a href="https://twitter.com/aqibmansoor" target="_blank" rel="noopener">
-        <img src="https://img.icons8.com/ios-glyphs/40/1DA1F2/twitter.png" alt="Twitter" class="icon-hover"/>
-      </a>
-      <br/>Twitter
-     
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/aqib-mansoor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://aqibfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:aqibmansoor70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/aqibmansoor" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 
 
@@ -127,18 +114,30 @@ From crafting elegant frontends to building scalable backends and cross-platform
 
 
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-<p align="center">       
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight" height="150" alt="Top Languages"/>    
-</p>
-
-
-
-## 🔥 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="800" style="border-radius: 10px; border: 1px solid #2e2e2e;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="38%" alt="Top Languages"/>
 </p>
 
 
-<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p>
+
+## 🔥 GitHub Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqib-mansoor&theme=tokyonight&utcOffset=5" width="39%" alt="Productive Time"/>
+</p>
+
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ffffff" width="95%" style="border-radius: 10px;" alt="GitHub Activity Graph"/>
+</p>
+
+
+
+<p align="center">⭐ Thanks for stopping by — let's build something amazing together! 🚀</p>
