@@ -270,48 +270,72 @@
 
 <div align="center">
   
+  <!-- Stats Cards with Gradients -->
   <table width="100%">
     <tr>
-      <td align="center" style="padding: 20px; background: #0D1117; border-radius: 16px; border: 1px solid #3B82F6;">
-        <h3>📊 Total Contributions</h3>
-        <p style="font-size: 40px; font-weight: bold; margin: 10px 0; color: #3B82F6;">569</p>
-        <p><small>📅 Jan 12, 2023 - Present</small></p>
-       </td>
-      <td align="center" style="padding: 20px; background: #0D1117; border-radius: 16px; border: 1px solid #8B5CF6;">
-        <h3>🔥 Current Streak</h3>
-        <p style="font-size: 40px; font-weight: bold; margin: 10px 0; color: #8B5CF6;">1 Day</p>
-        <p><small>📅 May 23, 2026</small></p>
-       </td>
-      <td align="center" style="padding: 20px; background: #0D1117; border-radius: 16px; border: 1px solid #EC4899;">
-        <h3>🏆 Longest Streak</h3>
-        <p style="font-size: 40px; font-weight: bold; margin: 10px 0; color: #EC4899;">10 Days</p>
-        <p><small>📅 Mar 16 - Mar 25, 2023</small></p>
-       </td>
-     </tr>
-   </table>
+      <td align="center" style="padding: 25px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; border-bottom: 4px solid #3B82F6;">
+        <h2 style="margin: 0; font-size: 42px; color: #3B82F6;">📊</h2>
+        <p style="margin: 10px 0 5px; font-size: 14px; color: #888;">Total Contributions</p>
+        <p style="margin: 0; font-size: 48px; font-weight: bold; color: #3B82F6;">569</p>
+        <p style="margin: 5px 0 0; font-size: 12px; color: #666;">📅 Jan 12, 2023 - Present</p>
+      </td>
+      <td align="center" style="padding: 25px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; border-bottom: 4px solid #8B5CF6;">
+        <h2 style="margin: 0; font-size: 42px; color: #8B5CF6;">🔥</h2>
+        <p style="margin: 10px 0 5px; font-size: 14px; color: #888;">Current Streak</p>
+        <p style="margin: 0; font-size: 48px; font-weight: bold; color: #8B5CF6;">1 Day</p>
+        <p style="margin: 5px 0 0; font-size: 12px; color: #666;">📅 May 23, 2026</p>
+      </td>
+      <td align="center" style="padding: 25px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; border-bottom: 4px solid #EC4899;">
+        <h2 style="margin: 0; font-size: 42px; color: #EC4899;">🏆</h2>
+        <p style="margin: 10px 0 5px; font-size: 14px; color: #888;">Longest Streak</p>
+        <p style="margin: 0; font-size: 48px; font-weight: bold; color: #EC4899;">10 Days</p>
+        <p style="margin: 5px 0 0; font-size: 12px; color: #666;">📅 Mar 16 - Mar 25, 2023</p>
+      </td>
+    </tr>
+  </table>
   
   <br/><br/>
   
+  <!-- Combined Stats Row -->
   <table width="100%">
     <tr>
-      <td align="center" width="48%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6" width="100%"/>
+      <td width="49%" align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%"/>
       </td>
-      <td align="center" width="48%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="100%"/>
+      <td width="49%" align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" width="100%"/>
       </td>
-     </tr>
-   </table>
+    </tr>
+  </table>
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ec4899" width="95%"/>
+  <!-- Contribution Graph with Heading -->
+  <div style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
+    <h3 align="center" style="color: #3B82F6; margin-bottom: 20px;">📈 Contribution Activity Graph</h3>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3B82F6&point=EC4899&area=true&area_color=3B82F6" width="100%"/>
+  </div>
   
   <br/><br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
+  <!-- GitHub Trophies -->
+  <div style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
+    <h3 align="center" style="color: #8B5CF6; margin-bottom: 20px;">🏆 GitHub Trophies</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
+  </div>
+  
+  <br/><br/>
+  
+  <!-- Contribution Calendar -->
+  <div style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
+    <h3 align="center" style="color: #EC4899; margin-bottom: 20px;">📅 Contribution Calendar</h3>
+    <img src="https://ghchart.rshah.org/3B82F6/aqib-mansoor" width="100%" alt="GitHub Contribution Chart"/>
+    <p align="center" style="margin-top: 15px; font-size: 12px; color: #666;">💚 Each square represents a day of contributions</p>
+  </div>
   
 </div>
+
+<br/>
 
 ---
 
@@ -321,60 +345,86 @@
   
   <table width="100%">
     <tr>
-      <td align="center">
-        <a href="https://github.com/aqib-mansoor">
-          <img src="https://img.icons8.com/fluency/50/github.png"/>
+      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
+        <a href="https://github.com/aqib-mansoor" style="text-decoration: none;">
+          <img src="https://img.icons8.com/fluency/48/github.png"/>
           <br/>
-          <b>GitHub</b>
+          <b style="color: #fff;">GitHub</b>
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/aqib-mansoor">
-          <img src="https://img.icons8.com/fluency/50/linkedin.png"/>
+      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
+        <a href="https://www.linkedin.com/in/aqib-mansoor" style="text-decoration: none;">
+          <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
           <br/>
-          <b>LinkedIn</b>
+          <b style="color: #fff;">LinkedIn</b>
         </a>
       </td>
-      <td align="center">
-        <a href="https://twitter.com/aqibmansoor">
-          <img src="https://img.icons8.com/fluency/50/twitter.png"/>
+      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
+        <a href="https://twitter.com/aqibmansoor" style="text-decoration: none;">
+          <img src="https://img.icons8.com/fluency/48/twitter.png"/>
           <br/>
-          <b>Twitter</b>
+          <b style="color: #fff;">Twitter</b>
         </a>
       </td>
-      <td align="center">
-        <a href="mailto:aqibmansoor70@gmail.com">
-          <img src="https://img.icons8.com/fluency/50/gmail.png"/>
+      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
+        <a href="mailto:aqibmansoor70@gmail.com" style="text-decoration: none;">
+          <img src="https://img.icons8.com/fluency/48/gmail.png"/>
           <br/>
-          <b>Gmail</b>
+          <b style="color: #fff;">Gmail</b>
         </a>
       </td>
-      <td align="center">
-        <a href="https://aqibfolio.vercel.app">
-          <img src="https://img.icons8.com/fluency/50/domain.png"/>
+      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
+        <a href="https://aqibfolio.vercel.app" style="text-decoration: none;">
+          <img src="https://img.icons8.com/fluency/48/domain.png"/>
           <br/>
-          <b>Portfolio</b>
+          <b style="color: #fff;">Portfolio</b>
         </a>
       </td>
-     </tr>
-   </table>
+    </tr>
+  <tr>
   
 </div>
+
+<br/>
 
 ---
 
 ## ✨ Quote I Live By
 
-> "Exploring creativity through code — building experiences that inspire."
+<div align="center">
+  <table width="60%">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; padding: 25px;">
+        <p style="font-size: 20px; font-style: italic; color: #FFFFFF; margin: 0;">
+          💡 "Exploring creativity through code — building experiences that inspire."
+        </p>
+        <p style="margin: 15px 0 0 0; color: #3B82F6;">— Aqib Mansoor</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&gradientColors=3b82f6,8b5cf6,ec4899" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradientColors=3B82F6,8B5CF6,EC4899" width="100%"/>
 </div>
 
 <div align="center">
   
-  <b>⭐ Thanks for stopping by — let's build something amazing together! 🚀</b>
+  <table width="80%">
+    <tr>
+      <td align="center" style="padding: 30px;">
+        <h2>⭐</h2>
+        <b style="font-size: 18px;">Thanks for stopping by!</b>
+        <br/><br/>
+        <i>"Let's build something amazing together"</i>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/-🚀_Keep_Coding-181717?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
   
 </div>
