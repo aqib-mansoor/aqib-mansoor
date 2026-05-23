@@ -270,67 +270,102 @@
 
 <div align="center">
   
-  <!-- Stats Cards with Gradients -->
-  <table width="100%">
-    <tr>
-      <td align="center" style="padding: 25px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; border-bottom: 4px solid #3B82F6;">
-        <h2 style="margin: 0; font-size: 42px; color: #3B82F6;">📊</h2>
-        <p style="margin: 10px 0 5px; font-size: 14px; color: #888;">Total Contributions</p>
-        <p style="margin: 0; font-size: 48px; font-weight: bold; color: #3B82F6;">569</p>
-        <p style="margin: 5px 0 0; font-size: 12px; color: #666;">📅 Jan 12, 2023 - Present</p>
-      </td>
-      <td align="center" style="padding: 25px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; border-bottom: 4px solid #8B5CF6;">
-        <h2 style="margin: 0; font-size: 42px; color: #8B5CF6;">🔥</h2>
-        <p style="margin: 10px 0 5px; font-size: 14px; color: #888;">Current Streak</p>
-        <p style="margin: 0; font-size: 48px; font-weight: bold; color: #8B5CF6;">1 Day</p>
-        <p style="margin: 5px 0 0; font-size: 12px; color: #666;">📅 May 23, 2026</p>
-      </td>
-      <td align="center" style="padding: 25px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; border-bottom: 4px solid #EC4899;">
-        <h2 style="margin: 0; font-size: 42px; color: #EC4899;">🏆</h2>
-        <p style="margin: 10px 0 5px; font-size: 14px; color: #888;">Longest Streak</p>
-        <p style="margin: 0; font-size: 48px; font-weight: bold; color: #EC4899;">10 Days</p>
-        <p style="margin: 5px 0 0; font-size: 12px; color: #666;">📅 Mar 16 - Mar 25, 2023</p>
-      </td>
-    </tr>
-  </table>
-  
-  <br/><br/>
-  
-  <!-- Combined Stats Row -->
-  <table width="100%">
-    <tr>
-      <td width="49%" align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%"/>
-      </td>
-      <td width="49%" align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/><br/>
-  
-  <!-- Contribution Graph with Heading -->
-  <div style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
-    <h3 align="center" style="color: #3B82F6; margin-bottom: 20px;">📈 Contribution Activity Graph</h3>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3B82F6&point=EC4899&area=true&area_color=3B82F6" width="100%"/>
+  <!-- Main Stats Row - Modern Cards -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    
+    <!-- Card 1 -->
+    <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 28px 32px; width: 220px; box-shadow: 0 8px 32px rgba(59,130,246,0.15); border: 1px solid rgba(59,130,246,0.2);">
+      <div style="font-size: 48px; margin-bottom: 8px;">📊</div>
+      <div style="font-size: 42px; font-weight: 800; color: #3B82F6; margin-bottom: 8px;">569</div>
+      <div style="font-size: 14px; color: #94A3B8; letter-spacing: 1px;">TOTAL CONTRIBUTIONS</div>
+      <div style="font-size: 11px; color: #475569; margin-top: 10px;">📅 Jan 2023 - Present</div>
+    </div>
+    
+    <!-- Card 2 -->
+    <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 28px 32px; width: 220px; box-shadow: 0 8px 32px rgba(139,92,246,0.15); border: 1px solid rgba(139,92,246,0.2);">
+      <div style="font-size: 48px; margin-bottom: 8px;">🔥</div>
+      <div style="font-size: 42px; font-weight: 800; color: #8B5CF6; margin-bottom: 8px;">1</div>
+      <div style="font-size: 14px; color: #94A3B8; letter-spacing: 1px;">CURRENT STREAK</div>
+      <div style="font-size: 11px; color: #475569; margin-top: 10px;">📅 May 23, 2026</div>
+    </div>
+    
+    <!-- Card 3 -->
+    <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 28px 32px; width: 220px; box-shadow: 0 8px 32px rgba(236,72,153,0.15); border: 1px solid rgba(236,72,153,0.2);">
+      <div style="font-size: 48px; margin-bottom: 8px;">🏆</div>
+      <div style="font-size: 42px; font-weight: 800; color: #EC4899; margin-bottom: 8px;">10</div>
+      <div style="font-size: 14px; color: #94A3B8; letter-spacing: 1px;">LONGEST STREAK</div>
+      <div style="font-size: 11px; color: #475569; margin-top: 10px;">📅 Mar 16-25, 2023</div>
+    </div>
+    
+    <!-- Card 4 -->
+    <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 28px 32px; width: 220px; box-shadow: 0 8px 32px rgba(16,185,129,0.15); border: 1px solid rgba(16,185,129,0.2);">
+      <div style="font-size: 48px; margin-bottom: 8px;">⭐</div>
+      <div style="font-size: 42px; font-weight: 800; color: #10B981; margin-bottom: 8px;">5</div>
+      <div style="font-size: 14px; color: #94A3B8; letter-spacing: 1px;">TOTAL STARS</div>
+      <div style="font-size: 11px; color: #475569; margin-top: 10px;">✨ Across 6 repos</div>
+    </div>
+    
   </div>
   
   <br/><br/>
   
-  <!-- GitHub Trophies -->
-  <div style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
-    <h3 align="center" style="color: #8B5CF6; margin-bottom: 20px;">🏆 GitHub Trophies</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" width="100%"/>
+  <!-- Streak & Languages Side by Side -->
+  <div style="display: flex; justify-content: center; gap: 24px; flex-wrap: wrap;">
+    
+    <!-- Streak Card -->
+    <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 20px; width: 460px; box-shadow: 0 8px 32px rgba(59,130,246,0.1); border: 1px solid rgba(59,130,246,0.15);">
+      <div style="text-align: center; margin-bottom: 12px;">
+        <span style="font-size: 28px;">⚡</span>
+        <span style="font-size: 16px; font-weight: 600; color: #3B82F6; margin-left: 8px;">CONTRIBUTION STREAK</span>
+      </div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%"/>
+    </div>
+    
+    <!-- Languages Card -->
+    <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 20px; width: 400px; box-shadow: 0 8px 32px rgba(139,92,246,0.1); border: 1px solid rgba(139,92,246,0.15);">
+      <div style="text-align: center; margin-bottom: 12px;">
+        <span style="font-size: 28px;">🛠️</span>
+        <span style="font-size: 16px; font-weight: 600; color: #8B5CF6; margin-left: 8px;">TOP LANGUAGES</span>
+      </div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=94A3B8" width="100%"/>
+    </div>
+    
+  </div>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 24px; box-shadow: 0 8px 32px rgba(236,72,153,0.08); border: 1px solid rgba(236,72,153,0.12);">
+    <div style="text-align: center; margin-bottom: 16px;">
+      <span style="font-size: 28px;">📈</span>
+      <span style="font-size: 16px; font-weight: 600; color: #EC4899; margin-left: 8px;">ACTIVITY TIMELINE</span>
+    </div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=github-dark&hide_border=true&bg_color=0B1120&color=3B82F6&line=8B5CF6&point=EC4899&area=true&area_color=3B82F6" width="100%"/>
+  </div>
+  
+  <br/><br/>
+  
+  <!-- Trophies -->
+  <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 24px; box-shadow: 0 8px 32px rgba(16,185,129,0.08); border: 1px solid rgba(16,185,129,0.12);">
+    <div style="text-align: center; margin-bottom: 16px;">
+      <span style="font-size: 28px;">🏆</span>
+      <span style="font-size: 16px; font-weight: 600; color: #10B981; margin-left: 8px;">ACHIEVEMENTS</span>
+    </div>
+    <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=darkhub&no-frame=true&row=1&column=7&margin-w=12" width="100%"/>
   </div>
   
   <br/><br/>
   
   <!-- Contribution Calendar -->
-  <div style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 20px; padding: 20px;">
-    <h3 align="center" style="color: #EC4899; margin-bottom: 20px;">📅 Contribution Calendar</h3>
+  <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 24px; box-shadow: 0 8px 32px rgba(59,130,246,0.08); border: 1px solid rgba(59,130,246,0.12);">
+    <div style="text-align: center; margin-bottom: 16px;">
+      <span style="font-size: 28px;">📅</span>
+      <span style="font-size: 16px; font-weight: 600; color: #3B82F6; margin-left: 8px;">CONTRIBUTION CALENDAR</span>
+    </div>
     <img src="https://ghchart.rshah.org/3B82F6/aqib-mansoor" width="100%" alt="GitHub Contribution Chart"/>
-    <p align="center" style="margin-top: 15px; font-size: 12px; color: #666;">💚 Each square represents a day of contributions</p>
+    <div style="text-align: center; margin-top: 12px;">
+      <span style="font-size: 12px; color: #475569;">💚 Each square = 1 day of coding activity</span>
+    </div>
   </div>
   
 </div>
@@ -343,45 +378,44 @@
 
 <div align="center">
   
-  <table width="100%">
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
-        <a href="https://github.com/aqib-mansoor" style="text-decoration: none;">
-          <img src="https://img.icons8.com/fluency/48/github.png"/>
-          <br/>
-          <b style="color: #fff;">GitHub</b>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
-        <a href="https://www.linkedin.com/in/aqib-mansoor" style="text-decoration: none;">
-          <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
-          <br/>
-          <b style="color: #fff;">LinkedIn</b>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
-        <a href="https://twitter.com/aqibmansoor" style="text-decoration: none;">
-          <img src="https://img.icons8.com/fluency/48/twitter.png"/>
-          <br/>
-          <b style="color: #fff;">Twitter</b>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
-        <a href="mailto:aqibmansoor70@gmail.com" style="text-decoration: none;">
-          <img src="https://img.icons8.com/fluency/48/gmail.png"/>
-          <br/>
-          <b style="color: #fff;">Gmail</b>
-        </a>
-      </td>
-      <td align="center" style="background: linear-gradient(135deg, #0f0f1a 0%, #1a1a2e 100%); border-radius: 16px; padding: 12px;">
-        <a href="https://aqibfolio.vercel.app" style="text-decoration: none;">
-          <img src="https://img.icons8.com/fluency/48/domain.png"/>
-          <br/>
-          <b style="color: #fff;">Portfolio</b>
-        </a>
-      </td>
-    </tr>
-  <tr>
+  <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+    
+    <a href="https://github.com/aqib-mansoor" style="text-decoration: none;">
+      <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 50px; padding: 12px 28px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(59,130,246,0.2); transition: transform 0.2s;">
+        <img src="https://img.icons8.com/fluency/28/github.png"/>
+        <span style="color: #fff; font-weight: 500;">GitHub</span>
+      </div>
+    </a>
+    
+    <a href="https://www.linkedin.com/in/aqib-mansoor" style="text-decoration: none;">
+      <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 50px; padding: 12px 28px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(0,119,181,0.2); transition: transform 0.2s;">
+        <img src="https://img.icons8.com/fluency/28/linkedin.png"/>
+        <span style="color: #fff; font-weight: 500;">LinkedIn</span>
+      </div>
+    </a>
+    
+    <a href="https://twitter.com/aqibmansoor" style="text-decoration: none;">
+      <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 50px; padding: 12px 28px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(29,161,242,0.2); transition: transform 0.2s;">
+        <img src="https://img.icons8.com/fluency/28/twitter.png"/>
+        <span style="color: #fff; font-weight: 500;">Twitter</span>
+      </div>
+    </a>
+    
+    <a href="mailto:aqibmansoor70@gmail.com" style="text-decoration: none;">
+      <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 50px; padding: 12px 28px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(234,67,53,0.2); transition: transform 0.2s;">
+        <img src="https://img.icons8.com/fluency/28/gmail.png"/>
+        <span style="color: #fff; font-weight: 500;">Gmail</span>
+      </div>
+    </a>
+    
+    <a href="https://aqibfolio.vercel.app" style="text-decoration: none;">
+      <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 50px; padding: 12px 28px; display: flex; align-items: center; gap: 10px; border: 1px solid rgba(59,130,246,0.3); transition: transform 0.2s;">
+        <img src="https://img.icons8.com/fluency/28/domain.png"/>
+        <span style="color: #fff; font-weight: 500;">Portfolio</span>
+      </div>
+    </a>
+    
+  </div>
   
 </div>
 
@@ -389,19 +423,16 @@
 
 ---
 
-## ✨ Quote I Live By
+## 💫 Quote I Live By
 
 <div align="center">
-  <table width="60%">
-    <tr>
-      <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; padding: 25px;">
-        <p style="font-size: 20px; font-style: italic; color: #FFFFFF; margin: 0;">
-          💡 "Exploring creativity through code — building experiences that inspire."
-        </p>
-        <p style="margin: 15px 0 0 0; color: #3B82F6;">— Aqib Mansoor</p>
-      </td>
-    </tr>
-  </table>
+  <div style="background: linear-gradient(145deg, #0B1120 0%, #0F172A 100%); border-radius: 28px; padding: 32px 48px; max-width: 600px; border: 1px solid rgba(139,92,246,0.2);">
+    <div style="font-size: 48px; margin-bottom: 12px;">✨</div>
+    <p style="font-size: 18px; font-style: italic; color: #E2E8F0; line-height: 1.6; margin: 0;">
+      "Exploring creativity through code — building experiences that inspire."
+    </p>
+    <p style="margin: 16px 0 0 0; color: #8B5CF6; font-weight: 500;">— Aqib Mansoor</p>
+  </div>
 </div>
 
 <br/>
@@ -414,17 +445,12 @@
 
 <div align="center">
   
-  <table width="80%">
-    <tr>
-      <td align="center" style="padding: 30px;">
-        <h2>⭐</h2>
-        <b style="font-size: 18px;">Thanks for stopping by!</b>
-        <br/><br/>
-        <i>"Let's build something amazing together"</i>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/-🚀_Keep_Coding-181717?style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
+  <div style="margin: 40px 0 20px 0;">
+    <span style="font-size: 32px;">⭐</span>
+    <h3 style="color: #E2E8F0; margin: 10px 0;">Thanks for stopping by!</h3>
+    <p style="color: #94A3B8;">Let's build something amazing together 🚀</p>
+    <br/>
+    <img src="https://img.shields.io/badge/Keep_Coding-Passionately-3B82F6?style=flat-square&logo=github&logoColor=white"/>
+  </div>
   
 </div>
