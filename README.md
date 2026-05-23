@@ -270,51 +270,6 @@
 
 <div align="center">
   
-  <!-- Row 1: Stats Cards -->
-  <table width="100%">
-    <tr>
-      <td align="center" width="25%" style="background: #0D1117; border-radius: 16px; padding: 20px; border: 1px solid #3B82F6;">
-        <h1>📊</h1>
-        <h2 style="color: #3B82F6; margin: 10px 0; font-size: 42px;">569</h2>
-        <p><b>TOTAL CONTRIBUTIONS</b></p>
-        <small>📅 Jan 2023 - Present</small>
-      </td>
-      <td align="center" width="25%" style="background: #0D1117; border-radius: 16px; padding: 20px; border: 1px solid #8B5CF6;">
-        <h1>🔥</h1>
-        <h2 style="color: #8B5CF6; margin: 10px 0; font-size: 42px;">1</h2>
-        <p><b>CURRENT STREAK</b></p>
-        <small>📅 May 23, 2026</small>
-      </td>
-      <td align="center" width="25%" style="background: #0D1117; border-radius: 16px; padding: 20px; border: 1px solid #EC4899;">
-        <h1>🏆</h1>
-        <h2 style="color: #EC4899; margin: 10px 0; font-size: 42px;">10</h2>
-        <p><b>LONGEST STREAK</b></p>
-        <small>📅 Mar 16-25, 2023</small>
-       </td>
-      <td align="center" width="25%" style="background: #0D1117; border-radius: 16px; padding: 20px; border: 1px solid #10B981;">
-        <h1>⭐</h1>
-        <h2 style="color: #10B981; margin: 10px 0; font-size: 42px;">5</h2>
-        <p><b>TOTAL STARS</b></p>
-        <small>✨ Across 6 repos</small>
-       </td>
-    </tr>
-  </table>
-  
-  <br/><br/>
-  
-  <!-- Row 2: Streak + Top Languages -->
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" style="background: #0D1117; border-radius: 16px; padding: 20px;">
-        <h3>⚡ CONTRIBUTION STREAK</h3>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=8B5CF6" width="100%"/>
-       </td>
-      <td width="50%" align="center" style="background: #0D1117; border-radius: 16px; padding: 20px;">
-        <h3>🛠️ TOP LANGUAGES</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqib-mansoor&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6" width="100%"/>
-       </td>
-    </tr>
-  </table>
   
   <br/><br/>
   
