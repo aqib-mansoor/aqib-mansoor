@@ -271,22 +271,7 @@
 <div align="center">
   
   <!-- Stats Row -->
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/📊_TOTAL_CONTRIBUTIONS-569-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
-      </td>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-1_Day-8B5CF6?style=for-the-badge&logo=fire&logoColor=white"/>
-      </td>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-10_Days-EC4899?style=for-the-badge&logo=trophy&logoColor=white"/>
-      </td>
-      <td align="center" width="140">
-        <img src="https://img.shields.io/badge/⭐_TOTAL_STARS-5-FFD700?style=for-the-badge&logo=star&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+  
   
 </div>
 
