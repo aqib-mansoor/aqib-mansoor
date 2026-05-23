@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#3b82f6;">Aqib Mansoor</span></h1>  
 
 <p align="center">  
-  💻 <strong>Web Developer</strong><br/>  
-  🚀 Turning ideas into beautiful, responsive, and functional web experiences.<br/>  
+  💻 <strong>Web & Mobile App Developer</strong><br/>  
+  🚀 Turning ideas into beautiful, responsive, and functional digital experiences.<br/>  
   ✨ Always learning. Always creating.  
 </p>  
 
@@ -13,8 +13,8 @@
 
 
 ## 🚀 About Me    
-I'm a passionate **Web Developer** who loves blending creativity with code to build impactful digital experiences.  
-From crafting elegant frontends to building scalable backend, I aim for performance, usability, and style in every project.
+I'm a passionate **Web & Mobile App Developer** who loves blending creativity with code to build impactful digital experiences.  
+From crafting elegant frontends to building scalable backends and cross-platform mobile apps, I aim for performance, usability, and style in every project.
 
 
 
@@ -33,7 +33,16 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 
 <br/>
 
+<!-- Mobile App Development -->
+<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NativeWind-0F172A?logo=tailwind-css&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+
+<br/>
+
 <!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-02569B?logo=api&logoColor=white" />
@@ -60,7 +69,7 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 </p>
 
 ## 🌟 Featured Project    
-🎯 **My Portfolio** Explore my latest web designs and projects:  
+🎯 **My Portfolio** Explore my latest web and app projects:  
 <p align="center">  
   <a href="https://aqibfolio.vercel.app">  
     <img src="https://img.shields.io/badge/Visit_Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>  
@@ -71,6 +80,7 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 
 ## 💡 What I Love Doing    
 - 🖌️ Designing clean, modern, and user friendly interfaces    
+- 📱 Building cross-platform mobile apps with React Native    
 - ⚙️ Writing maintainable & efficient backend code    
 - 🚀 Experimenting with new tools and frameworks    
 - 🎧 Music & Cricket keep my creativity alive!    
@@ -80,40 +90,32 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 ## 📬 Connect With Me
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
+| <td align="center">
       <a href="https://github.com/aqib-mansoor" target="_blank" rel="noopener">
         <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" alt="GitHub" class="icon-hover"/>
       </a>
       <br/>GitHub
-    </td>
-    <td align="center">
+     | <td align="center">
       <a href="https://aqibfolio.vercel.app" target="_blank" rel="noopener">
         <img src="https://img.icons8.com/ios-filled/40/3b82f6/domain.png" alt="Portfolio" class="icon-hover"/>
       </a>
       <br/>Portfolio
-    </td>
-    <td align="center">
+     | <td align="center">
       <a href="mailto:aqibmansoor70@gmail.com" target="_blank" rel="noopener">
         <img src="https://img.icons8.com/ios-glyphs/40/D14836/new-post.png" alt="Email" class="icon-hover"/>
       </a>
       <br/>Email
-    </td>
-    <td align="center">
+     | <td align="center">
       <a href="https://www.linkedin.com/in/aqib-mansoor" target="_blank" rel="noopener">
         <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" class="icon-hover"/>
       </a>
       <br/>LinkedIn
-    </td>
-    <td align="center">
+     | <td align="center">
       <a href="https://twitter.com/aqibmansoor" target="_blank" rel="noopener">
         <img src="https://img.icons8.com/ios-glyphs/40/1DA1F2/twitter.png" alt="Twitter" class="icon-hover"/>
       </a>
       <br/>Twitter
-    </td>
-  </tr>
-</table>
+     
 
 </div>
 
@@ -121,7 +123,7 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 
 
 ## ✨ Quote I Live By    
-> “Exploring creativity through code building experiences that inspire.”    
+> “Exploring creativity through code — building experiences that inspire.”    
 
 
 
@@ -139,4 +141,4 @@ From crafting elegant frontends to building scalable backend, I aim for performa
 </p>
 
 
-<p align="center">⭐ Thanks for stopping by let’s build something amazing together! 🚀</p>
+<p align="center">⭐ Thanks for stopping by — let’s build something amazing together! 🚀</p>
