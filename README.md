@@ -32,21 +32,21 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 Currently Working On</h3>
+      <h3>Currently Working On</h3>
       <ul>
-        <li>🔨 Building <b>React Native mobile apps</b></li>
-        <li>🌱 Learning <b>Node.js + Express.js</b> backend</li>
-        <li>💡 Creating <b>cross-platform</b> solutions</li>
-        <li>🎯 2026 Goal: <b>5+ production apps</b></li>
+        <li> Building <b>React Native mobile apps</b></li>
+        <li> Learning <b>Node.js + Express.js</b> backend</li>
+        <li> Creating <b>cross-platform</b> solutions</li>
+        <li> 2026 Goal: <b>5+ production apps</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Fun Facts</h3>
+      <h3> Fun Facts</h3>
       <ul>
-        <li>🎧 Debug with <b>Lo-Fi beats</b></li>
-        <li>🏏 Cricket enthusiast</li>
-        <li>☕ Coffee-powered coder</li>
-        <li>🌙 Night owl developer 🦉</li>
+        <li> Debug with <b>Lo-Fi beats</b></li>
+        <li> Cricket enthusiast</li>
+        <li> Coffee-powered coder</li>
+        <li> Night owl developer </li>
       </ul>
     </td>
    </tr>
