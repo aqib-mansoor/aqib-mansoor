@@ -37,7 +37,6 @@
         <li> Building <b>React Native mobile apps</b></li>
         <li> Learning <b>Node.js + Express.js</b> backend</li>
         <li> Creating <b>cross-platform</b> solutions</li>
-        <li> 2026 Goal: <b>5+ production apps</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
