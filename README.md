@@ -24,7 +24,7 @@
 
 <p align="center">
   I'm a <b>Web & Mobile App Developer</b> who turns ideas into <b>beautiful, responsive, and functional</b> digital experiences.<br/>
-  From elegant frontends to scalable backends — I build with passion, precision, and purpose.
+  From elegant frontends to scalable backends, I build with passion, precision, and purpose.
 </p>
 
 <br/>
