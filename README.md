@@ -311,17 +311,6 @@
 
 <br/>
 
-<div align="center">
-  
-  <img src="https://ghchart.rshah.org/3B82F6/aqib-mansoor?v=2026" width="90%"/>
-  
-  <br/>
-  <small>💚 Each square = 1 day of contributions</small>
-  
-</div>
-
-<br/>
-
 ---
 
 ## 🤝 Connect With Me
@@ -368,6 +357,6 @@
   
   <br/>
   
-  b>⭐ Thanks for stopping by! Let's build something amazing together 🚀</b>
+  <b>⭐ Thanks for stopping by! Let's build something amazing together 🚀</b>
   
 </div>
