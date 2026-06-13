@@ -1,4 +1,3 @@
-
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aqib+Mansoor;%F0%9F%92%BB+Web+%26+Mobile+Developer;%F0%9F%9A%80+Building+Digital+Dreams;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG"/>
@@ -49,8 +48,8 @@
         <li>🌙 Night owl developer</li>
       </ul>
     </td>
-   </tr>
-</td>
+  </tr>
+</table>
 
 <br/>
 
@@ -280,13 +279,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-  <!-- Stats Row -->
-  
-  
-</div>
-
 <br/>
 
 <div align="center">
@@ -294,7 +286,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&bg_color=0D1117" width="420"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2026" width="420"/>
       </td>
     </tr>
   </table>
@@ -305,7 +297,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ec4899" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ec4899&v=2026" width="95%"/>
   
 </div>
 
@@ -313,7 +305,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7&v=2026" width="95%"/>
   
 </div>
 
@@ -321,7 +313,7 @@
 
 <div align="center">
   
-  <img src="https://ghchart.rshah.org/3B82F6/aqib-mansoor" width="90%"/>
+  <img src="https://ghchart.rshah.org/3B82F6/aqib-mansoor?v=2026" width="90%"/>
   
   <br/>
   <small>💚 Each square = 1 day of contributions</small>
@@ -376,6 +368,6 @@
   
   <br/>
   
-  <b>⭐ Thanks for stopping by! Let's build something amazing together 🚀</b>
+  b>⭐ Thanks for stopping by! Let's build something amazing together 🚀</b>
   
 </div>
