@@ -5,10 +5,10 @@
   <br/><br/>
   
   <p>
-    <img src="https://img.shields.io/badge/Profile_Views-767-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Profile_Views-2637-181717?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Followers-1-181717?style=flat-square&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Total_Stars-5-181717?style=flat-square&logo=star&logoColor=FFD700"/>
-    <img src="https://img.shields.io/badge/Public_Repos-40-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Total_Stars-48-181717?style=flat-square&logo=star&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/Public_Repos-47-181717?style=flat-square&logo=github&logoColor=white"/>
   </p>
   
   <br/>
