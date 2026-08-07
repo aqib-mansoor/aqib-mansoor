@@ -5,15 +5,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Bachelor's-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
   <img src="https://img.shields.io/badge/📍_Pakistan-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
-  <img src="https://img.shields.io/badge/💼_2--3_years-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/💼_3_years-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
 </p>
 
-<p align="center">
-  <a href="https://aqibfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-D6FF00?style=for-the-badge&logo=vercel&logoColor=000&color=D6FF00"/></a>
-  <a href="https://www.linkedin.com/in/aqib-mansoor"><img src="https://img.shields.io/badge/LinkedIn-D6FF00?style=for-the-badge&logo=linkedin&logoColor=000&color=D6FF00"/></a>
-  <a href="mailto:aqibmansoor70@gmail.com"><img src="https://img.shields.io/badge/Email-D6FF00?style=for-the-badge&logo=gmail&logoColor=000&color=D6FF00"/></a>
-  <a href="https://github.com/aqib-mansoor"><img src="https://img.shields.io/badge/GitHub-D6FF00?style=for-the-badge&logo=github&logoColor=000&color=D6FF00"/></a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqib-mansoor&label=Profile+Views&color=D6FF00&style=flat-square"/>
