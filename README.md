@@ -218,14 +218,6 @@ Full-Stack & Mobile App Developer | 2–3 years
 
 ---
 
-~$ trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10"/>
-</div>
-
----
-
 ~$ activity_graph
 
 <div align="center">
