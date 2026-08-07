@@ -28,7 +28,7 @@ STACK="JavaScript, TypeScript, PHP, React, Next.js, React Native, Flutter, Node.
 OPEN_TO="Full-Stack, Software Engineer, React Native, Backend"
 ```
 
-I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience building production‑ready applications across SaaS, ride‑hailing, logistics, and workforce management. I specialise in scalable backend architecture, real‑time systems, geolocation services, and performance optimisation — delivering clean, secure, and maintainable code.
+I’m a Full‑Stack Web & Mobile Developer with 3 years of experience building production‑ready applications across SaaS, ride‑hailing, logistics, and workforce management. I specialise in scalable backend architecture, real‑time systems, geolocation services, and performance optimisation — delivering clean, secure, and maintainable code.
 
 ---
 
