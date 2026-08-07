@@ -21,14 +21,14 @@
 ## ~$ about
 
 ```bash
-ROLE="Full-Stack Web & Mobile Developer"
+ROLE="Full-Stack Web & App Developer"
 EXP="3 years of development experience"
 DOMAINS="SaaS, Ride-Hailing, Logistics, Workforce, E-commerce, Pet Care"
 STACK="JavaScript, TypeScript, PHP, React, Next.js, React Native, Flutter, Node.js, Laravel"
 OPEN_TO="Full-Stack, Software Engineer, React Native, Backend"
 ```
 
-I’m a Full‑Stack Web & Mobile Developer with 3 years of experience building production‑ready applications across SaaS, ride‑hailing, logistics, and workforce management. I specialise in scalable backend architecture, real‑time systems, geolocation services, and performance optimisation — delivering clean, secure, and maintainable code.
+I’m a Full‑Stack Web & App Developer with 3 years of experience building production‑ready applications across SaaS, ride‑hailing, logistics, and workforce management. I specialise in scalable backend architecture, real‑time systems, geolocation services, and performance optimisation — delivering clean, secure, and maintainable code.
 
 ---
 
