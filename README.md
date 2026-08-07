@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=D6FF00&center=true&vCenter=true&width=700&height=60&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+%26+Mobile+Dev;%3E+Node.js+%7C+Laravel+%7C+React+Native" alt="Typing SVG"/>
 </div>
