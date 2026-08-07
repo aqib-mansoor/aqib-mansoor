@@ -28,7 +28,7 @@
 
 ```bash
 ROLE="Full-Stack Web & Mobile Developer"
-EXP="2–3 years of development experience"
+EXP="3 years of development experience"
 DOMAINS="SaaS, Ride-Hailing, Logistics, Workforce, E-commerce, Pet Care"
 STACK="JavaScript, TypeScript, PHP, React, Next.js, React Native, Flutter, Node.js, Laravel"
 OPEN_TO="Full-Stack, Software Engineer, React Native, Backend"
