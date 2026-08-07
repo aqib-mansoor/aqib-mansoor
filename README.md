@@ -1,4 +1,5 @@
-<<div align="center">
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=D6FF00&center=true&vCenter=true&width=700&height=60&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+%26+Mobile+Dev;%3E+Node.js+%7C+Laravel+%7C+React+Native" alt="Typing SVG"/>
 </div>
 
@@ -39,31 +40,22 @@ I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience build
 
 ~$ tech_stack
 
-<h3 align="center">Frontend</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" />
-</p>
-
-<h3 align="center">Mobile</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,reactnative,android,ios,expo" />
-</p>
-
-<h3 align="center">Backend & Databases</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,laravel,graphql" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
-</p>
-
-<h3 align="center">DevOps & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,githubactions" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+  <br/>
+  <b style="color: #D6FF00;">Frontend</b><br/>
+  <code>JavaScript · TypeScript · React · Next.js · Tailwind · Vite · Redux</code>
+  <br/><br/>
+  <b style="color: #D6FF00;">Mobile</b><br/>
+  <code>React Native · Flutter · Expo · Android · iOS</code>
+  <br/><br/>
+  <b style="color: #D6FF00;">Backend</b><br/>
+  <code>PHP · Node.js · Express · NestJS · Laravel · GraphQL</code>
+  <br/><br/>
+  <b style="color: #D6FF00;">Databases</b><br/>
+  <code>MySQL · PostgreSQL · MongoDB · Redis · Firebase · Prisma</code>
+  <br/><br/>
+  <b style="color: #D6FF00;">DevOps & Tools</b><br/>
+  <code>AWS · Docker · Vercel · Netlify · GitHub Actions · Git · Postman · Linux</code>
 </p>
 
 ---
@@ -76,18 +68,6 @@ I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience build
   <img src="https://img.shields.io/badge/📍_Real-Time_Systems-D6FF00?style=flat-square&color=D6FF00"/>
   <img src="https://img.shields.io/badge/⚙️_Backend_Architecture-D6FF00?style=flat-square&color=D6FF00"/>
   <img src="https://img.shields.io/badge/📱_Cross-Platform_Mobile-D6FF00?style=flat-square&color=D6FF00"/>
-</p>
-
----
-
-~$ expertise
-
-<p align="center">
-  <b>Frontend:</b> React, Next.js, Tailwind, Shadcn UI<br/>
-  <b>Mobile:</b> React Native, Flutter, Expo, NativeWind<br/>
-  <b>Backend:</b> Node.js, Laravel, REST APIs, WebSockets, JWT<br/>
-  <b>Databases:</b> MySQL, PostgreSQL, MongoDB, Redis, Prisma<br/>
-  <b>DevOps:</b> AWS, Docker, Vercel, GitHub Actions, Firebase
 </p>
 
 ---
