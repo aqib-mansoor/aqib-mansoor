@@ -178,7 +178,7 @@ Full-Stack & Mobile App Developer | 2 years
 ~$ education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Bachelor's-Barani_Institute_of_Inormation_&_Technology-D6FF00?style=for-the-badge&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/🎓_Bachelor's-Barani_Institute_of_Information_&_Technology-D6FF00?style=for-the-badge&color=D6FF00"/>
 </p>
 
 ---
