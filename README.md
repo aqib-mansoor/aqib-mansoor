@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/github/followers/aqib-mansoor?label=Followers&style=flat-square&color=D6FF00"/>
   <img src="https://img.shields.io/github/stars/aqib-mansoor?label=Stars&style=flat-square&color=D6FF00"/>
 </p>
-
 ---
 
 ## ~$ about
