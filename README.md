@@ -22,7 +22,7 @@
 
 ```bash
 ROLE="Full-Stack Web & Mobile Developer"
-EXP="2–3 years of development experience"
+EXP="3 years of development experience"
 DOMAINS="SaaS, Ride-Hailing, Logistics, Workforce, E-commerce, Pet Care"
 STACK="JavaScript, TypeScript, PHP, React, Next.js, React Native, Flutter, Node.js, Laravel"
 OPEN_TO="Full-Stack, Software Engineer, React Native, Backend"
@@ -178,7 +178,7 @@ Full-Stack & Mobile App Developer | 2–3 years
 ~$ education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Bachelor's-Barani_Institute_of_IT-D6FF00?style=for-the-badge&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/🎓_Bachelor's-Barani_Institute_of_Inormation_&_Technology-D6FF00?style=for-the-badge&color=D6FF00"/>
 </p>
 
 ---
@@ -186,7 +186,7 @@ Full-Stack & Mobile App Developer | 2–3 years
 ~$ github_analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D6FF00&icon_color=D6FF00&text_color=94A3B8" width="45%"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&hide_border=true&background=0D1117&stroke=D6FF00&ring=D6FF00&fire=D6FF00&currStreakLabel=D6FF00&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="45%"/>
 </div>
 
