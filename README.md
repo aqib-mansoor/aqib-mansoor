@@ -1,20 +1,11 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6FF00,000000&height=200&text=Aqib%20Mansoor&fontSize=48&fontColor=000000&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=D6FF00&center=true&vCenter=true&width=700&height=60&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+%26+Mobile+Dev;%3E+Node.js+%7C+Laravel+%7C+React+Native" alt="Typing SVG"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=D6FF00&center=true&vCenter=true&width=700&height=60&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+%26+Mobile+Dev;%3E+Building+enterprise+apps;%3E+Node.js+%7C+Laravel+%7C+React+Native" alt="Typing SVG"/>
-</div>
-
-<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Degree-Bachelor's-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
-  <img src="https://img.shields.io/badge/📍_Location-Pakistan-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
-  <img src="https://img.shields.io/badge/💼_Experience-2--3_years-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/🎓_Bachelor's-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/📍_Pakistan-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/💼_2--3_years-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
 </p>
 
 <p align="center">
@@ -25,24 +16,24 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqib-mansoor&label=👀+Profile+Views&color=D6FF00&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=aqib-mansoor&label=Profile+Views&color=D6FF00&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/aqib-mansoor?label=Followers&style=flat-square&color=D6FF00"/>
-  <img src="https://img.shields.io/github/stars/aqib-mansoor?label=Total+Stars&style=flat-square&color=D6FF00"/>
+  <img src="https://img.shields.io/github/stars/aqib-mansoor?label=Stars&style=flat-square&color=D6FF00"/>
 </p>
 
 ---
 
-## `~$ about`
+## ~$ about
 
 ```bash
 ROLE="Full-Stack Web & Mobile Developer"
 EXP="2–3 years of development experience"
-DOMAINS=("SaaS" "Ride-Hailing" "Delivery & Logistics" "Workforce Management" "E-commerce" "Pet Care" "Healthcare" "Fintech")
-STACK=("JavaScript" "TypeScript" "PHP" "React.js" "Next.js" "React Native" "Flutter" "Node.js" "Express.js" "Laravel" "MySQL" "PostgreSQL" "MongoDB" "Redis" "AWS" "Docker" "Git" "REST APIs")
-OPEN_TO=("Full-Stack Developer" "Software Engineer" "React Native Developer" "Mobile App Developer" "Backend Developer")
+DOMAINS="SaaS, Ride-Hailing, Logistics, Workforce, E-commerce, Pet Care"
+STACK="JavaScript, TypeScript, PHP, React, Next.js, React Native, Flutter, Node.js, Laravel"
+OPEN_TO="Full-Stack, Software Engineer, React Native, Backend"
 ```
 
-I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience building production‑ready applications across SaaS, ride‑hailing, logistics, workforce management, and e‑commerce. I specialise in scalable backend architecture, real‑time systems, geolocation services, and performance optimisation — delivering clean, secure, and maintainable code.
+I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience building production‑ready applications across SaaS, ride‑hailing, logistics, and workforce management. I specialise in scalable backend architecture, real‑time systems, geolocation services, and performance optimisation — delivering clean, secure, and maintainable code.
 
 ---
 
@@ -63,11 +54,11 @@ I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience build
 ~$ specialties
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔒_Security_&_Fraud_Prevention-D6FF00?style=flat-square&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/🔒_Security_&_Fraud-D6FF00?style=flat-square&color=D6FF00"/>
   <img src="https://img.shields.io/badge/📊_Performance_&_Scalability-D6FF00?style=flat-square&color=D6FF00"/>
-  <img src="https://img.shields.io/badge/📍_Real--Time_&_Location_Systems-D6FF00?style=flat-square&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/📍_Real-Time_Systems-D6FF00?style=flat-square&color=D6FF00"/>
   <img src="https://img.shields.io/badge/⚙️_Backend_Architecture-D6FF00?style=flat-square&color=D6FF00"/>
-  <img src="https://img.shields.io/badge/📱_Cross--Platform_Mobile-D6FF00?style=flat-square&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/📱_Cross-Platform_Mobile-D6FF00?style=flat-square&color=D6FF00"/>
 </p>
 
 ---
@@ -75,12 +66,11 @@ I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience build
 ~$ expertise
 
 <p align="center">
-  <b>Frontend:</b> React, Next.js, Tailwind, Shadcn UI, Vite<br/>
+  <b>Frontend:</b> React, Next.js, Tailwind, Shadcn UI<br/>
   <b>Mobile:</b> React Native, Flutter, Expo, NativeWind<br/>
-  <b>Backend:</b> Node.js, Laravel, REST APIs, WebSockets, JWT, Sanctum<br/>
+  <b>Backend:</b> Node.js, Laravel, REST APIs, WebSockets, JWT<br/>
   <b>Databases:</b> MySQL, PostgreSQL, MongoDB, Redis, Prisma<br/>
-  <b>Cloud/DevOps:</b> AWS, Docker, Vercel, GitHub Actions, Firebase<br/>
-  <b>Architecture:</b> MVC, Service-Driven, Real-Time, Concurrency, Transaction Control
+  <b>DevOps:</b> AWS, Docker, Vercel, GitHub Actions, Firebase
 </p>
 
 ---
@@ -88,33 +78,33 @@ I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience build
 ~$ featured_projects
 
 <details open>
-<summary><b>📱 Mobile Attendance & Workforce Management System</b></summary>
+<summary><b>📱 Mobile Workforce Management System</b></summary>
 
-Stack: React Native, Expo, TypeScript, Laravel, MySQL/PostgreSQL, Redis, Tailwind
+Stack: React Native, Expo, TypeScript, Laravel, MySQL, Redis
 Role: Full-Stack & Mobile Developer
 Key Contributions:
-· Built mobile app with flexible shift workflows (morning/evening/random part‑time).
+· Built mobile app with flexible shift workflows (morning/evening/part‑time).
 · Implemented geofencing for attendance verification and fraud prevention.
 · Used database transactions & row‑level locking to avoid duplicate sessions.
 · Developed Redis‑backed background jobs and scheduled tasks.
 · Optimised queries with composite indexes and chunked processing.
 
-Impact: Enterprise‑grade workforce management with real‑time monitoring and reporting.
+Impact: Enterprise‑grade workforce management with real‑time monitoring.
 
 </details>
 
 <details>
-<summary><b>🚗 Savari — Ride‑Hailing & Delivery Platform</b></summary>
+<summary><b>🚗 Savari — Ride‑Hailing & Delivery</b></summary>
 
-Stack: React Native, Laravel, React.js, Tailwind, MySQL, MapLibre/Leaflet
+Stack: React Native, Laravel, React.js, Tailwind, MySQL, MapLibre
 Role: Full-Stack & Mobile Developer
 Key Contributions:
-· Built React admin portal with fare/computation formula builder and analytics.
-· Developed driver and passenger apps with real‑time ride requests, bidding, and route visualisation.
+· Built React admin portal with fare/computation formula builder.
+· Developed driver/passenger apps with real‑time ride requests and bidding.
 · Implemented booking flows for standard rides, cargo, and trucks.
-· Built Laravel REST APIs with JWT authentication and ride lifecycle rules.
+· Built Laravel REST APIs with JWT authentication.
 
-Impact: Complete ride‑hailing ecosystem with dynamic pricing and commission configuration.
+Impact: Complete ride‑hailing ecosystem with dynamic pricing.
 
 </details>
 
@@ -126,35 +116,22 @@ Role: Full-Stack & Mobile Developer
 Key Contributions:
 · Designed multi‑pet profile and family‑sharing (up to 5 members).
 · Built Node.js backend APIs and optimised MongoDB queries.
-· Improved performance by refactoring API request patterns and database access.
+· Improved performance by refactoring API request patterns.
 
-Impact: Pet scheduling platform with premium features and production deployment.
+Impact: Pet scheduling platform with premium features.
 
 </details>
 
 <details>
-<summary><b>📦 LMDS — Last Mile Delivery System</b></summary>
+<summary><b>📦 LMDS — Last Mile Delivery</b></summary>
 
 Stack: React Native, Node.js, REST APIs
 Role: Full-Stack & Mobile Developer
 Key Contributions:
 · Developed multi‑user workflows for customers, vendors, and riders.
-· Implemented admin approval, vendor API integrations, in‑app store, and recurring deliveries.
+· Implemented admin approval, vendor API integrations, and recurring deliveries.
 
-Impact: Streamlined last‑mile delivery with scheduling and vendor management.
-
-</details>
-
-<details>
-<summary><b>🍔 BP Restaurant</b></summary>
-
-Stack: React.js, Tailwind, Shadcn UI, Vite, Leaflet, Framer Motion
-Role: Frontend Developer
-Key Contributions:
-· Built responsive web app with interactive UI and map‑based location features.
-· Integrated Leaflet for restaurant mapping and location services.
-
-Impact: Modern restaurant/business presence with rich UI/UX.
+Impact: Streamlined last‑mile delivery with vendor management.
 
 </details>
 
@@ -165,7 +142,7 @@ Impact: Modern restaurant/business presence with rich UI/UX.
 Enscyd Technologies
 Full-Stack & Mobile App Developer | Sept 2025 – Present
 · Develop and maintain production web/mobile apps (React, React Native, Node.js, Laravel).
-· Build REST APIs, auth systems, business logic, third‑party integrations, real‑time features, and background jobs.
+· Build REST APIs, auth systems, real‑time features, background jobs, and third-party integrations.
 · Handle debugging, performance tuning, deployment, and production support.
 
 Freelance / Project‑Based
@@ -177,19 +154,20 @@ Full-Stack & Mobile App Developer | 2–3 years
 
 ~$ achievements
 
-Achievement Details
-✅ Enterprise Workforce System Built a fraud‑proof attendance system with geofencing and concurrency control.
-✅ Ride‑Hailing Ecosystem Delivered a complete platform with dynamic pricing, bidding, and live route tracking.
-✅ Optimised Database Performance Reduced query time by using composite indexes and chunked processing.
-✅ Production Deployments Deployed multiple apps on AWS, Vercel, Render, and Firebase.
-✅ Cross‑Platform Apps Published React Native and Flutter apps to both App Store and Google Play.
+<p align="center">
+  ✅ Enterprise Workforce System — Fraud-proof attendance with geofencing & concurrency control.<br/>
+  ✅ Ride‑Hailing Ecosystem — Dynamic pricing, bidding, and live route tracking.<br/>
+  ✅ Optimised Database — Reduced query time using composite indexes & chunked processing.<br/>
+  ✅ Production Deployments — AWS, Vercel, Render, and Firebase.<br/>
+  ✅ Cross‑Platform Apps — Published apps to both App Store and Google Play.
+</p>
 
 ---
 
 ~$ education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Bachelor's_Degree-Barani_Institute_of_Information_&_Technology-D6FF00?style=for-the-badge&color=D6FF00"/>
+  <img src="https://img.shields.io/badge/🎓_Bachelor's-Barani_Institute_of_IT-D6FF00?style=for-the-badge&color=D6FF00"/>
 </p>
 
 ---
@@ -233,14 +211,6 @@ Achievement Details
 
 ---
 
-~$ snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aqib-mansoor/aqib-mansoor/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ~$ focus
 
 ```yaml
@@ -252,7 +222,6 @@ learning:
   - Real-Time Systems
   - Cloud & CI/CD
   - AI Integrations
-  - Application Security
 building:
   - Enterprise workforce management
   - Ride-hailing & delivery platforms
@@ -261,7 +230,7 @@ exploring:
   - AI-powered features
   - Real-time communication
   - Performance optimization patterns
-open_to: Full-Stack Developer / React Native Developer / Backend Developer
+open_to: Full-Stack / React Native / Backend Developer
 ```
 
 ---
@@ -278,7 +247,3 @@ open_to: Full-Stack Developer / React Native Developer / Backend Developer
 <blockquote align="center">
   <em>“Building scalable systems that solve real problems – one line of code at a time.”</em>
 </blockquote>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D6FF00,000000&height=100&section=footer"/>
-</div>
