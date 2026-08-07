@@ -319,4 +319,3 @@ open_to: Full-Stack Developer / React Native Developer / Backend Developer
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8,0EA5E9&height=100&section=footer"/>
 </div>
-```
