@@ -1,8 +1,5 @@
-
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=D6FF00&center=true&vCenter=true&width=700&height=60&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+%26+Mobile+Dev;%3E+Node.js+%7C+Laravel+%7C+React+Native" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=D6FF00&center=true&vCenter=true&width=850&height=80&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+Web+%26+Mobile+App+Developer;%3E+React+%7C+Next.js+%7C+React+Native+%7C+Flutter;%3E+Node.js+%7C+Laravel+%7C+AWS+%7C+Docker;" alt="Typing SVG"/>
 </div>
 
 <p align="center">
