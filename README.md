@@ -1,362 +1,322 @@
+```markdown
+<!--
+  PROFILE README — Aqib Mansoor
+  Palette: #00B4D8 (cyan), #0D1117 (bg), #F97316 (accent)
+  Font: Fira Code
+  Design: Tech Terminal
+-->
+
+<!-- 1. Animated Banner -->
 <div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Aqib+Mansoor;%F0%9F%92%BB+Web+%26+Mobile+Developer;%F0%9F%9A%80+Building+Digital+Dreams;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG"/>
-  
-  <br/><br/>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Profile_Views-2637-181717?style=flat-square&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Followers-1-181717?style=flat-square&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Total_Stars-48-181717?style=flat-square&logo=star&logoColor=FFD700"/>
-    <img src="https://img.shields.io/badge/Public_Repos-47-181717?style=flat-square&logo=github&logoColor=white"/>
-  </p>
-  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00B4D8,0EA5E9&height=200&text=Aqib%20Mansoor&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=65&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
+
+<!-- 2. Typing SVG (terminal style) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=700&height=60&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+%26+Mobile+Dev;%3E+Building+enterprise+apps;%3E+Node.js+%7C+Laravel+%7C+React+Native" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- 3. Info Badges Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Degree-Bachelor's-00B4D8?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📍_Location-Pakistan-00B4D8?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💼_Experience-2--3_years-00B4D8?style=flat-square&logoColor=white"/>
+</p>
+
+<!-- 4. CTA Buttons -->
+<p align="center">
+  <a href="https://aqibfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aqib-mansoor"><img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aqibmansoor70@gmail.com"><img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/aqib-mansoor"><img src="https://img.shields.io/badge/GitHub-00B4D8?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<!-- 5. Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aqib-mansoor&label=👀+Profile+Views&color=00B4D8&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/aqib-mansoor?label=Followers&style=flat-square&color=00B4D8"/>
+  <img src="https://img.shields.io/github/stars/aqib-mansoor?label=Total+Stars&style=flat-square&color=00B4D8"/>
+</p>
+
+---
+
+<!-- 6. About / Bio -->
+## `~$ about`
+
+```bash
+ROLE="Full-Stack Web & Mobile Developer"
+EXP="2–3 years of development experience"
+DOMAINS=("SaaS" "Ride-Hailing" "Delivery & Logistics" "Workforce Management" "E-commerce" "Pet Care" "Healthcare" "Fintech")
+STACK=("JavaScript" "TypeScript" "PHP" "React.js" "Next.js" "React Native" "Flutter" "Node.js" "Express.js" "Laravel" "MySQL" "PostgreSQL" "MongoDB" "Redis" "AWS" "Docker" "Git" "REST APIs")
+OPEN_TO=("Full-Stack Developer" "Software Engineer" "React Native Developer" "Mobile App Developer" "Backend Developer")
+```
+
+I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience building production‑ready applications across SaaS, ride‑hailing, logistics, workforce management, and e‑commerce.
+I specialise in scalable backend architecture, real‑time systems, geolocation services, and performance optimisation — delivering clean, secure, and maintainable code.
+
+---
+
+<!-- 7. Tech Stack Icons -->
+
+~$ tech_stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,dart,html,css" />
   <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&gradientColors=3b82f6,8b5cf6,ec4899" width="100%"/>
-  
-</div>
-
-<br/>
-
-## 👋 About Me
-
-<p align="center">
-  I'm a <b>Web & Mobile App Developer</b> who turns ideas into <b>beautiful, responsive, and functional</b> digital experiences.<br/>
-  From elegant frontends to scalable backends, I build with passion, precision, and purpose.
-</p>
-
-<br/>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Currently Working On</h3>
-      <ul>
-        <li>🔨 Building <b>React Native mobile apps</b></li>
-        <li>⚡ Working with <b>PHP + Laravel</b> for backend</li>
-        <li>💻 Building <b>React</b> web applications</li>
-        <li>🎯 Creating <b>cross-platform</b> solutions</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Fun Facts</h3>
-      <ul>
-        <li>🎧 Debug with <b>Lo-Fi beats</b></li>
-        <li>🏏 Cricket enthusiast</li>
-        <li>☕ Coffee-powered coder</li>
-        <li>🌙 Night owl developer</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 🛠️ Tech Arsenal
-
-### 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
-
----
-
-### 📱 Mobile App Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/NativeWind-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
-
-### 🗄️ Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
----
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-</p>
-
----
-
-### 🔧 Tools & Others
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🍔 FoodieExpress Ecosystem
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Live_&-Active-00C853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Stars-⭐_1-FFD700?style=flat-square"/>
-</p>
-
-**Multi-vendor E-commerce Platform** where customers can browse and order from food, grocery, electronics, and more.
-
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux"/>
-</p>
-
-**Key Features:**
-- 🛍️ Multi-vendor marketplace
-- 📦 Real-time order tracking
-- 💳 Secure payment integration
-- 📊 Analytics dashboard
-
-**Ecosystem Portals:**
-<p>
-  <img src="https://img.shields.io/badge/👨‍💼_Vendor_Portal-3b82f6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🏍️_Rider_Portal-8b5cf6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🛒_Admin_Panel-ec4899?style=flat-square"/>
-</p>
-
----
-
-### 🐾 PetHorizon
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Stars-⭐_1-FFD700?style=flat-square"/>
-</p>
-
-**Smart Pet Care Management Platform** - Modern landing page featuring pet tracking, schedules, medicine reminders, and activity timelines.
-
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer"/>
-</p>
-
-**Key Features:**
-- 🐶 Pet profiles & tracking
-- 💊 Medicine reminders
-- 📅 Appointment scheduler
-- 📈 Activity timeline
-
----
-
-### 🤖 ApplyDaddy
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Development-FFA500?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Stars-⭐_1-FFD700?style=flat-square"/>
-</p>
-
-**AI-Powered Job Response Automation** - Generate professional emails and WhatsApp messages from any job post in 15 seconds.
-
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css"/>
-</p>
-
-**Key Features:**
-- 🤖 AI-generated cover letters
-- 📧 Smart email personalization
-- 💬 WhatsApp message automation
-- ⚡ One-click responses
-
----
-
-### 📊 Nexus-Crypto-Hub
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Development-FFA500?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Stars-⭐_0-808080?style=flat-square"/>
-</p>
-
-**Institutional-Grade Crypto Intelligence Terminal** - Real-time crypto prices, exchange rates, market trends, and crypto news via third-party APIs.
-
-**Tech Stack:**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/CoinGecko_API-3b82f6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/News_API-ec4899?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat-square&logo=tailwind-css"/>
-</p>
-
-**Key Features:**
-- 📈 Live crypto prices
-- 📊 Sentiment analysis
-- 💼 Portfolio simulation
-- 📰 Crypto news feed
-- 🔍 Advanced market analytics
-
----
-
-## 📊 GitHub Analytics
-
-<br/>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2026" width="420"/>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=3b82f6&point=ec4899&v=2026" width="95%"/>
-  
-</div>
-
-<br/>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=tokyonight&no-frame=true&row=1&column=7&v=2026" width="95%"/>
-  
-</div>
-
-<br/>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  
-  <a href="https://github.com/aqib-mansoor">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aqib-mansoor">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/aqibmansoor">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:aqibmansoor70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://aqibfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  
-</div>
-
-<br/>
-
----
-
-## 💫 Quote
-
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-  
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&gradientColors=3B82F6,8B5CF6,EC4899" width="100%"/>
-  
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux" />
   <br/>
-  
-  <b>⭐ Thanks for stopping by! Let's build something amazing together 🚀</b>
-  
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,expo,android,ios" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,graphql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,githubactions" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
+
+---
+
+<!-- 8. Specialty Badges -->
+
+~$ specialties
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔒_Security_&_Fraud_Prevention-00B4D8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📊_Performance_&_Scalability-00B4D8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📍_Real--Time_&_Location_Systems-00B4D8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⚙️_Backend_Architecture-00B4D8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📱_Cross--Platform_Mobile-00B4D8?style=flat-square"/>
+</p>
+
+---
+
+<!-- 9. Expertise Table -->
+
+~$ expertise
+
+Domain Proficiency Details
+Frontend Advanced React, Next.js, Tailwind, Shadcn UI, Vite
+Mobile Advanced React Native, Flutter, Expo, NativeWind
+Backend Advanced Node.js, Laravel, REST APIs, WebSockets, JWT, Sanctum
+Databases Advanced MySQL, PostgreSQL, MongoDB, Redis, Prisma
+Cloud/DevOps Intermediate AWS, Docker, Vercel, GitHub Actions, Firebase
+Architecture Advanced MVC, Service-Driven, Real-Time, Concurrency, Transaction Control
+
+---
+
+<!-- 10. Featured Projects -->
+
+~$ featured_projects
+
+<details open>
+<summary><b>📱 Mobile Attendance & Workforce Management System</b></summary>
+
+Stack: React Native, Expo, TypeScript, Laravel, MySQL/PostgreSQL, Redis, Tailwind
+Role: Full-Stack & Mobile Developer
+Key Contributions:
+· Built mobile app with flexible shift workflows (morning/evening/random part‑time).
+· Implemented geofencing for attendance verification and fraud prevention.
+· Used database transactions & row‑level locking to avoid duplicate sessions.
+· Developed Redis‑backed background jobs and scheduled tasks.
+· Optimised queries with composite indexes and chunked processing.
+
+Impact: Enterprise‑grade workforce management with real‑time monitoring and reporting.
+
+</details>
+
+<details>
+<summary><b>🚗 Savari — Ride‑Hailing & Delivery Platform</b></summary>
+
+Stack: React Native, Laravel, React.js, Tailwind, MySQL, MapLibre/Leaflet
+Role: Full-Stack & Mobile Developer
+Key Contributions:
+· Built React admin portal with fare/computation formula builder and analytics.
+· Developed driver and passenger apps with real‑time ride requests, bidding, and route visualisation.
+· Implemented booking flows for standard rides, cargo, and trucks.
+· Built Laravel REST APIs with JWT authentication and ride lifecycle rules.
+
+Impact: Complete ride‑hailing ecosystem with dynamic pricing and commission configuration.
+
+</details>
+
+<details>
+<summary><b>🐾 PetHorizon</b></summary>
+
+Stack: React Native, Node.js, MongoDB, AWS, Render
+Role: Full-Stack & Mobile Developer
+Key Contributions:
+· Designed multi‑pet profile and family‑sharing (up to 5 members).
+· Built Node.js backend APIs and optimised MongoDB queries.
+· Improved performance by refactoring API request patterns and database access.
+
+Impact: Pet scheduling platform with premium features and production deployment.
+
+</details>
+
+<details>
+<summary><b>📦 LMDS — Last Mile Delivery System</b></summary>
+
+Stack: React Native, Node.js, REST APIs
+Role: Full-Stack & Mobile Developer
+Key Contributions:
+· Developed multi‑user workflows for customers, vendors, and riders.
+· Implemented admin approval, vendor API integrations, in‑app store, and recurring deliveries.
+
+Impact: Streamlined last‑mile delivery with scheduling and vendor management.
+
+</details>
+
+<details>
+<summary><b>🍔 BP Restaurant</b></summary>
+
+Stack: React.js, Tailwind, Shadcn UI, Vite, Leaflet, Framer Motion
+Role: Frontend Developer
+Key Contributions:
+· Built responsive web app with interactive UI and map‑based location features.
+· Integrated Leaflet for restaurant mapping and location services.
+
+Impact: Modern restaurant/business presence with rich UI/UX.
+
+</details>
+
+---
+
+<!-- 11. Experience Log -->
+
+~$ experience
+
+Enscyd Technologies
+Full-Stack & Mobile App Developer | Sept 2025 – Present
+· Develop and maintain production web/mobile apps (React, React Native, Node.js, Laravel).
+· Build REST APIs, auth systems, business logic, third‑party integrations, real‑time features, and background jobs.
+· Handle debugging, performance tuning, deployment, and production support.
+
+Freelance / Project‑Based
+Full-Stack & Mobile App Developer | 2–3 years
+· Built end‑to‑end solutions across ride‑hailing, delivery, workforce, e‑commerce, and pet care.
+· Focused on scalable architecture, API integrations, DB optimisation, and security.
+
+---
+
+<!-- 12. Achievements Table -->
+
+~$ achievements
+
+Achievement Details
+✅ Enterprise Workforce System Built a fraud‑proof attendance system with geofencing and concurrency control.
+✅ Ride‑Hailing Ecosystem Delivered a complete platform with dynamic pricing, bidding, and live route tracking.
+✅ Optimised Database Performance Reduced query time by using composite indexes and chunked processing.
+✅ Production Deployments Deployed multiple apps on AWS, Vercel, Render, and Firebase.
+✅ Cross‑Platform Apps Published React Native and Flutter apps to both App Store and Google Play.
+
+---
+
+<!-- 13. Education Badge -->
+
+~$ education
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Bachelor's_Degree-Barani_Institute_of_Information_&_Technology-00B4D8?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- 14. GitHub Analytics -->
+
+~$ github_analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqib-mansoor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=94A3B8" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqib-mansoor&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=F97316&currStreakLabel=00B4D8&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="45%"/>
 </div>
+
+<!-- 15. Trophies -->
+
+~$ trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aqib-mansoor&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10"/>
+</div>
+
+<!-- 16. Activity Graph -->
+
+~$ activity_graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&bg_color=0D1117&color=00B4D8&line=00B4D8&point=F97316&area=true&area_color=00B4D8&hide_border=true" width="95%"/>
+</div>
+
+<!-- 17. Summary Cards -->
+
+~$ summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqib-mansoor&theme=github_dark&border_color=00B4D8" width="95%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqib-mansoor&theme=github_dark&border_color=00B4D8" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqib-mansoor&theme=github_dark&border_color=00B4D8" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqib-mansoor&theme=github_dark&border_color=00B4D8" width="30%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aqib-mansoor&theme=github_dark&border_color=00B4D8&utcOffset=5" width="45%"/>
+</div>
+
+<!-- 18. Snake Animation -->
+
+~$ snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aqib-mansoor/aqib-mansoor/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- 19. Current Focus -->
+
+~$ focus
+
+```yaml
+learning:
+  - Advanced React & React Native
+  - Scalable Node.js & Laravel
+  - Redis & Background Processing
+  - Database Optimization
+  - Real-Time Systems
+  - Cloud & CI/CD
+  - AI Integrations
+  - Application Security
+building:
+  - Enterprise workforce management
+  - Ride-hailing & delivery platforms
+  - Cross-platform mobile apps
+exploring:
+  - AI-powered features
+  - Real-time communication
+  - Performance optimization patterns
+open_to: Full-Stack Developer / React Native Developer / Backend Developer
+```
+
+---
+
+<!-- 20. Connect + Footer -->
+
+~$ connect
+
+<p align="center">
+  <a href="https://github.com/aqib-mansoor"><img src="https://img.shields.io/badge/GitHub-00B4D8?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aqib-mansoor"><img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aqibmansoor70@gmail.com"><img src="https://img.shields.io/badge/Email-00B4D8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://aqibfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<blockquote align="center">
+  <em>“Building scalable systems that solve real problems – one line of code at a time.”</em>
+</blockquote>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8,0EA5E9&height=100&section=footer"/>
+</div>
+```
