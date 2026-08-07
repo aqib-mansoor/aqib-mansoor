@@ -50,7 +50,7 @@ I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience build
 <h3 align="center">Mobile</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,expo,android,ios" />
+  <img src="https://skillicons.dev/icons?i=flutter,reactnative,android,ios,expo" />
 </p>
 
 <h3 align="center">Backend & Databases</h3>
