@@ -1,4 +1,4 @@
-```markdown
+
 <!--
   PROFILE README — Aqib Mansoor
   Palette: #00B4D8 (cyan), #0D1117 (bg), #F97316 (accent)
