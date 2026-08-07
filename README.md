@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=D6FF00&center=true&vCenter=true&width=700&height=60&lines=~%24+whoami;%3E+Aqib+Mansoor;%3E+Full-Stack+%26+Mobile+Dev;%3E+Node.js+%7C+Laravel+%7C+React+Native" alt="Typing SVG"/>
 </div>
@@ -42,20 +41,38 @@ I’m a Full‑Stack Web & Mobile Developer with 2–3 years of experience build
 
 <p align="center">
   <br/>
-  <b style="color: #D6FF00;">Frontend</b><br/>
-  <code>JavaScript · TypeScript · React · Next.js · Tailwind · Vite · Redux</code>
+  <b style="color: #D6FF00; font-size: 18px;">Frontend</b><br/>
+  ⚛️ React · ⚡ Next.js · 🌊 Tailwind · ⚡ Vite · 🔄 Redux<br/>
+  <span style="color: #94A3B8; font-size: 14px;">JavaScript · TypeScript · HTML · CSS</span>
   <br/><br/>
-  <b style="color: #D6FF00;">Mobile</b><br/>
-  <code>React Native · Flutter · Expo · Android · iOS</code>
-  <br/><br/>
-  <b style="color: #D6FF00;">Backend</b><br/>
-  <code>PHP · Node.js · Express · NestJS · Laravel · GraphQL</code>
-  <br/><br/>
-  <b style="color: #D6FF00;">Databases</b><br/>
-  <code>MySQL · PostgreSQL · MongoDB · Redis · Firebase · Prisma</code>
-  <br/><br/>
-  <b style="color: #D6FF00;">DevOps & Tools</b><br/>
-  <code>AWS · Docker · Vercel · Netlify · GitHub Actions · Git · Postman · Linux</code>
+
+<b style="color: #D6FF00; font-size: 18px;">Mobile</b>
+
+📱 React Native · 🎯 Flutter · 🚀 Expo · 🤖 Android · 🍎 iOS
+
+
+
+
+<b style="color: #D6FF00; font-size: 18px;">Backend</b>
+
+🐘 PHP · 🟢 Node.js · 🚂 Express · 🦁 NestJS · 🎸 Laravel · 🔗 GraphQL
+
+
+
+
+<b style="color: #D6FF00; font-size: 18px;">Databases</b>
+
+🐬 MySQL · 🐘 PostgreSQL · 🍃 MongoDB · 🔴 Redis · 🔥 Firebase · 📦 Prisma
+
+
+
+
+<b style="color: #D6FF00; font-size: 18px;">DevOps & Tools</b>
+
+☁️ AWS · 🐳 Docker · ▲ Vercel · 🌐 Netlify · ⚙️ GitHub Actions
+
+🔧 Git · 🐙 GitHub · 📬 Postman · 💻 VS Code · 🐧 Linux
+
 </p>
 
 ---
