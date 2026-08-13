@@ -166,8 +166,10 @@ Full-Stack & Mobile App Developer | 2 years
 ~$ achievements
 
 <p align="center">
- <b> ✅ Enterprise Workforce System </b>  Fraud-proof attendance with geofencing & concurrency control.<br/>
-  ✅ Ride‑Hailing Ecosystem — Dynamic pricing, bidding, and live route tracking.<br/>
+ <b> ✅ Enterprise Workforce System: </b>  Fraud-proof attendance with geofencing & concurrency control.<br/>
+
+  <b> ✅ Ride‑Hailing Ecosystem: </b> Dynamic pricing, bidding, and live route tracking.<br/>
+
   ✅ Optimised Database — Reduced query time using composite indexes & chunked processing.<br/>
   ✅ Production Deployments — AWS, Vercel, Render, and Firebase.<br/>
   ✅ Cross‑Platform Apps — Published apps to both App Store and Google Play.
