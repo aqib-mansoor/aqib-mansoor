@@ -175,7 +175,7 @@ Full-Stack & Mobile App Developer | 2 years
 
 <b>✅ Production Deployments: </b> AWS, Vercel, Render, and Firebase.<br/>
 
-  ✅ Cross‑Platform Apps — Published apps to both App Store and Google Play.
+<b>✅ Cross‑Platform Apps: </b> Published apps to both App Store and Google Play.
 </p>
 
 ---
