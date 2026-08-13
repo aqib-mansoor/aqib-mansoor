@@ -247,7 +247,7 @@ open_to: Full-Stack / React Native / Backend Developer
 
 <p align="center">
   <a href="https://github.com/aqib-mansoor"><img src="https://img.shields.io/badge/GitHub-D6FF00?style=for-the-badge&logo=github&logoColor=000&color=D6FF00"/></a>
-  <a href="https://www.linkedin.com/in/aqib-mansoor"><img src="https://img.shields.io/badge/LinkedIn-D6FF00?style=for-the-badge&logo=linkedin&logoColor=000&color=D6FF00"/></a>
+  <a href="https://www.linkedin.com/in/aqib-mansoor-174546428"><img src="https://img.shields.io/badge/LinkedIn-D6FF00?style=for-the-badge&logo=linkedin&logoColor=000&color=D6FF00"/></a>
   <a href="mailto:aqibmansoor70@gmail.com"><img src="https://img.shields.io/badge/Email-D6FF00?style=for-the-badge&logo=gmail&logoColor=000&color=D6FF00"/></a>
   <a href="https://aqibfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D6FF00?style=for-the-badge&logo=vercel&logoColor=000&color=D6FF00"/></a>
 </p>
