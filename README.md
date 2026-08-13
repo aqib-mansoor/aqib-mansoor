@@ -173,7 +173,8 @@ Full-Stack & Mobile App Developer | 2 years
 
 <b>✅ Optimised Database: </b> Reduced query time using composite indexes & chunked processing.<br/>
 
-  ✅ Production Deployments — AWS, Vercel, Render, and Firebase.<br/>
+<b>✅ Production Deployments: </b> AWS, Vercel, Render, and Firebase.<br/>
+
   ✅ Cross‑Platform Apps — Published apps to both App Store and Google Play.
 </p>
 
