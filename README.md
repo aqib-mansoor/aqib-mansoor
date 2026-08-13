@@ -154,7 +154,7 @@ Full-Stack & Mobile App Developer | Sept 2025 – Present
 
 <b>Freelance / Project‑Based</b>
 
-Full-Stack & Mobile App Developer | 2 years
+Full-Stack & Mobile App Developer | Feb 2023 – Present
 
 <ul>
   <li>Built end‑to‑end solutions across ride‑hailing, delivery, workforce, e‑commerce, and pet care.</li>
