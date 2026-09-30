@@ -302,15 +302,7 @@ My work spans **SaaS, logistics, ride-hailing, workforce management, e-commerce,
 
 </div>
 
----
 
-## ~$ contribution_activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqib-mansoor&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity"/>
-
-</div>
 
 ---
 
