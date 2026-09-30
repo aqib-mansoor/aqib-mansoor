@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/🎓_Bachelor's-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
 <img src="https://img.shields.io/badge/📍_Pakistan-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
 <img src="https://img.shields.io/badge/💼_3+_Years-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
-<img src="https://img.shields.io/badge/🤖_AI_Integration-D6FF00?style=flat-square&logoColor=000&color=D6FF00"/>
 
 <br/><br/>
 
