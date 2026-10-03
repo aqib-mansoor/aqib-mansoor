@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/🎓_Bachelor's-D6FF00?style=flat-square&logoColor=000"/>
 <img src="https://img.shields.io/badge/📍_Pakistan-D6FF00?style=flat-square&logoColor=000"/>
 <img src="https://img.shields.io/badge/💼_3%2B_Years-D6FF00?style=flat-square&logoColor=000"/>
-<img src="https://img.shields.io/badge/🤖_AI_Integration-D6FF00?style=flat-square&logoColor=000"/>
 
 <br/><br/>
 
